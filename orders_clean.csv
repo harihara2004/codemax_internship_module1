@@ -1,0 +1,563 @@
+order_id,order_date,order_time,order_status,sales_channel,customer_id,customer_name,customer_age,gender,customer_segment,customer_type,customer_city,customer_state,customer_acquisition_cost,region,customer_country,order_month,order_dow,is_problem_order
+ORD-301242,2023-11-06,16:37:47,Completed,Mobile App,CUST-003102,Jasmine Ryan,55,Male,Consumer,Loyal,Lake Williamberg,Texas,73.06,South,USA,11,0,0
+ORD-773460,2025-12-24,01:22:36,Completed,Website,CUST-003124,Scott Chase,26,Male,Premium,Loyal,Kristyport,Baden-Württemberg,67.27,South,Germany,12,2,0
+ORD-449374,2021-07-05,14:24:21,Completed,Mobile App,CUST-012496,Marc Wheeler,69,Female,Premium,Loyal,Singletonhaven,New York,52.02,East,USA,7,0,0
+ORD-567636,2023-01-21,07:20:26,Completed,Social Media,CUST-023928,Jennifer Smith,65,Male,Consumer,Loyal,Wigginsstad,North Carolina,65.91,South,USA,1,5,0
+ORD-820028,2022-05-13,09:46:21,Completed,Social Media,CUST-012730,Jessica Wang,34,Female,Consumer,Loyal,New Michaelton,Gujarat,66.26,West,India,5,4,0
+ORD-208728,2021-02-10,10:05:47,Pending,Website,CUST-021468,Dominique Odom,41,Female,Consumer,Returning,Morrisonfort,Alberta,29.09,Central,Canada,2,2,0
+ORD-686230,2021-05-03,02:55:44,Completed,Mobile App,CUST-023734,Julian Marshall,61,Female,Consumer,Loyal,Brianville,Texas,35.14,South,USA,5,0,0
+ORD-480470,2022-10-13,21:19:50,Completed,Mobile App,CUST-020081,Michael Prince,43,Female,VIP,Loyal,Dominguezbury,New York,31.21,East,USA,10,3,0
+ORD-417329,2022-12-06,17:22:52,Completed,Mobile App,CUST-011921,Gary Higgins,22,Female,Consumer,Loyal,Lake Mary,Quebec,66.68,East,Canada,12,1,0
+ORD-961581,2023-09-19,18:38:32,Completed,Mobile App,CUST-016600,Patricia Gay,36,Female,Consumer,Loyal,Lake Cheyenneton,Pennsylvania,15.83,East,USA,9,1,0
+ORD-560607,2024-03-15,18:20:55,Completed,Mobile App,CUST-021779,Christie Sharp,45,Female,Consumer,Loyal,Markmouth,Hesse,28.71,Central,Germany,3,4,0
+ORD-145098,2022-08-25,10:30:17,Completed,Website,CUST-013168,Austin Romero,24,Female,Business,Loyal,Lisaside,Illinois,45.47,Central,USA,8,3,0
+ORD-163733,2024-03-03,04:27:09,Completed,Mobile App,CUST-002075,Donald Leon,45,Female,Consumer,Loyal,Sancheztown,England,52.45,North,UK,3,6,0
+ORD-825133,2022-09-04,22:09:12,Completed,Website,CUST-018476,Amy Garcia,51,Male,Premium,Loyal,New Andreaberg,Georgia,76.67,South,USA,9,6,0
+ORD-475363,2024-07-05,19:49:42,Cancelled,Mobile App,CUST-012765,Brent Huber,19,Female,VIP,Loyal,Cruzton,Hesse,76.56,Central,Germany,7,4,1
+ORD-968844,2022-10-20,21:59:35,Completed,Website,CUST-001436,Gabrielle Valencia,39,Female,VIP,Loyal,Bobbybury,Wales,66.38,West,UK,10,3,0
+ORD-810046,2021-01-04,02:13:38,Completed,Mobile App,CUST-000109,Kyle Baker,68,Male,Premium,Loyal,North Ericport,Michigan,66.95,Central,USA,1,0,0
+ORD-498913,2025-03-24,19:38:47,Completed,Website,CUST-022079,Benjamin Johnson,48,Female,Premium,Loyal,Christopherfurt,Victoria,37.99,South,Australia,3,0,0
+ORD-652783,2024-12-09,04:27:49,Completed,Website,CUST-000860,John Murphy,46,Female,Consumer,Loyal,Port Kimberly,Texas,53.36,South,USA,12,0,0
+ORD-537228,2025-04-26,11:19:10,Completed,Social Media,CUST-012835,Timothy Zimmerman,67,Male,VIP,Loyal,Katrinaville,Bavaria,76.5,South,Germany,4,5,0
+ORD-491026,2023-10-20,19:08:40,Completed,Website,CUST-020053,Kimberly Conner,41,Female,Consumer,Loyal,Williamshaven,Illinois,28.21,Central,USA,10,4,0
+ORD-114657,2024-02-10,02:37:56,Completed,Website,CUST-016281,Robert Ellis,28,Male,Consumer,Loyal,Willisland,Illinois,54.15,Central,USA,2,5,0
+ORD-137773,2024-12-07,14:29:34,Completed,Website,CUST-009486,Kelsey Luna,61,Male,Consumer,Loyal,South Vincentborough,England,56.1,North,UK,12,5,0
+ORD-697815,2024-07-26,16:41:51,Completed,Mobile App,CUST-013085,Joseph Williams,47,Male,Consumer,Loyal,Davidmouth,Michigan,19.35,Central,USA,7,4,0
+ORD-669665,2021-05-08,21:06:08,Completed,Website,CUST-015380,Amanda Dean,63,Male,Business,Loyal,New Connor,Wales,68.88,West,UK,5,5,0
+ORD-694188,2025-08-16,13:09:17,Cancelled,Website,CUST-012511,James Pineda,51,Female,Consumer,Loyal,Port Erikborough,Northern Ireland,27.87,West,UK,8,5,1
+ORD-501684,2022-04-08,05:02:45,Returned,Mobile App,CUST-023552,Wayne Wilson,40,Male,Consumer,Loyal,Port Tiffany,Texas,58.18,South,USA,4,4,1
+ORD-674275,2023-02-08,18:19:46,Completed,Mobile App,CUST-003566,Robert Kennedy,41,Male,VIP,Loyal,Angelbury,Michigan,17.51,Central,USA,2,2,0
+ORD-431368,2022-09-25,05:58:39,Completed,Mobile App,CUST-022261,Jacob Bowers,52,Male,VIP,Loyal,Carolynchester,Victoria,41.98,South,Australia,9,6,0
+ORD-324410,2022-02-25,16:56:09,Completed,Mobile App,CUST-010810,Jacob Clay,72,Female,Consumer,Loyal,Sonyaborough,England,52.38,North,UK,2,4,0
+ORD-392190,2025-02-02,23:30:35,Completed,Website,CUST-007860,Rachael Gray,46,Male,Premium,Returning,Stephanieville,Michigan,78.3,Central,USA,2,6,0
+ORD-316037,2022-11-03,08:15:25,Completed,Mobile App,CUST-001827,Hannah Perry,32,Female,Consumer,Loyal,Bennettborough,Dubai,72.73,South,UAE,11,3,0
+ORD-952369,2023-08-19,20:40:47,Completed,Website,CUST-017250,Jonathon Castro,37,Male,VIP,Loyal,East Ashleyfurt,Ohio,42.84,Central,USA,8,5,0
+ORD-826759,2021-06-08,22:34:43,Completed,Website,CUST-020995,Troy Simmons,26,Male,Consumer,Loyal,Lake Micheleborough,North Rhine,24.17,West,Germany,6,1,0
+ORD-169466,2025-03-30,15:25:30,Completed,Website,CUST-010999,Courtney Ball,18,Male,Consumer,Loyal,Davidchester,Florida,61.93,South,USA,3,6,0
+ORD-618866,2025-09-11,07:43:28,Completed,Mobile App,CUST-013463,Brandon Bailey,20,Female,VIP,Loyal,Campbellshire,Lower Saxony,49.25,North,Germany,9,3,0
+ORD-571423,2022-01-15,11:28:45,Completed,Website,CUST-024093,Jacqueline Sanders,56,Male,Premium,Loyal,Chloeland,Florida,60.29,South,USA,1,5,0
+ORD-396890,2022-01-21,16:00:12,Completed,Mobile App,CUST-024695,Candice Hodge,53,Female,Premium,Loyal,Derrickville,Maharashtra,28.56,West,India,1,4,0
+ORD-617570,2023-10-24,18:18:55,Completed,Social Media,CUST-011892,David Taylor,45,Male,Premium,Loyal,North Rachelville,Ohio,33.64,Central,USA,10,1,0
+ORD-674930,2022-07-05,14:44:25,Returned,Marketplace,CUST-000114,Nathan Mccoy,70,Female,Consumer,Loyal,New Brendaland,Texas,51.41,South,USA,7,1,1
+ORD-210462,2023-06-10,04:29:54,Completed,Website,CUST-001303,Cody Lang,43,Male,Consumer,Loyal,Joshuastad,Northern Ireland,65.99,West,UK,6,5,0
+ORD-189761,2025-11-15,02:02:35,Completed,Website,CUST-015898,Tricia Arias,18,Female,Consumer,Loyal,Mcgeeview,Uttar Pradesh,71.02,North,India,11,5,0
+ORD-326146,2025-11-30,20:09:56,Returned,Website,CUST-013864,April Bowers,35,Non-Binary,VIP,Loyal,South Kim,Manitoba,67.31,Central,Canada,11,6,1
+ORD-375003,2021-12-27,10:53:14,Pending,Mobile App,CUST-002257,William Choi,26,Male,Consumer,Loyal,Port Jeremiahville,Texas,26.87,South,USA,12,0,0
+ORD-969431,2021-04-11,07:05:41,Completed,Mobile App,CUST-006129,Nicole Vasquez,42,Female,Consumer,Loyal,Carrillomouth,Scotland,74.01,North,UK,4,6,0
+ORD-509719,2023-04-23,21:47:13,Completed,Website,CUST-021906,Alexis West,60,Male,Consumer,Loyal,West Alyssatown,Manitoba,31.32,Central,Canada,4,6,0
+ORD-295130,2024-12-14,04:56:32,Completed,Social Media,CUST-017823,Christina Johnson,57,Male,Consumer,Loyal,West Kaylaview,Georgia,41.12,South,USA,12,5,0
+ORD-226486,2021-04-04,15:11:31,Completed,Website,CUST-002099,Michael Newton,32,Male,Consumer,Loyal,Knightport,Bavaria,12.43,South,Germany,4,6,0
+ORD-716048,2022-06-01,15:12:52,Completed,Marketplace,CUST-005432,Norman Edwards,72,Male,Premium,Loyal,East David,Pennsylvania,19.64,East,USA,6,2,0
+ORD-507418,2021-03-19,05:40:57,Completed,Social Media,CUST-007311,Derek Cox,39,Male,Business,Loyal,East Joseph,New York,62.01,East,USA,3,4,0
+ORD-205298,2021-04-06,06:22:40,Completed,Mobile App,CUST-005787,Larry Bailey,58,Male,Premium,Loyal,Christinaton,Texas,59.02,South,USA,4,1,0
+ORD-739435,2023-04-11,16:27:05,Cancelled,Mobile App,CUST-004737,John Macdonald,36,Male,Consumer,Loyal,East Stephanie,Scotland,31.02,North,UK,4,1,1
+ORD-360952,2021-04-26,20:10:31,Completed,Website,CUST-023564,Deborah Ross,35,Female,Consumer,Loyal,South Christybury,Victoria,50.29,South,Australia,4,0,0
+ORD-726019,2021-07-02,05:56:12,Completed,Marketplace,CUST-005629,Taylor Peck,40,Female,VIP,Loyal,Karenfurt,Queensland,38.41,North,Australia,7,4,0
+ORD-737759,2023-11-12,18:05:13,Completed,Website,CUST-014509,John Hernandez,32,Female,Business,Loyal,North Nathanmouth,Illinois,55.89,Central,USA,11,6,0
+ORD-821059,2021-10-05,07:19:50,Completed,Mobile App,CUST-021137,Wesley Porter,64,Female,Consumer,Loyal,Mckenzieland,Michigan,60.89,Central,USA,10,1,0
+ORD-428680,2024-06-01,02:49:48,Completed,Website,CUST-001134,Kevin Patterson,50,Male,Consumer,Loyal,New Lisa,Scotland,5.91,North,UK,6,5,0
+ORD-386272,2024-03-22,04:03:31,Returned,Social Media,CUST-009121,Gary Adams,46,Male,VIP,Loyal,Ericashire,Ohio,74.1,Central,USA,3,4,1
+ORD-652936,2025-05-03,19:41:34,Completed,Mobile App,CUST-006448,Dana Rollins,70,Female,Consumer,Returning,Barronbury,Michigan,61.24,Central,USA,5,5,0
+ORD-553232,2023-09-12,12:36:28,Completed,Mobile App,CUST-023452,Nicole Ruiz,40,Female,Consumer,Loyal,East Elizabeth,Illinois,9.65,Central,USA,9,1,0
+ORD-580885,2021-05-02,08:42:43,Completed,Mobile App,CUST-019970,Alisha Christian,34,Female,Consumer,Loyal,North Shane,Ohio,31.98,Central,USA,5,6,0
+ORD-586331,2025-11-09,12:18:21,Completed,Mobile App,CUST-024399,Tina Gregory,23,Male,Business,Loyal,Lake Amberview,California,57.88,West,USA,11,6,0
+ORD-812145,2024-09-29,11:22:31,Completed,Mobile App,CUST-001940,Jeremy Brown,43,Female,Premium,Loyal,North Dawnbury,Michigan,8.77,Central,USA,9,6,0
+ORD-255711,2023-11-20,09:48:29,Completed,Mobile App,CUST-024283,Christina Smith,51,Male,Business,Loyal,North Richardton,New York,20.23,East,USA,11,0,0
+ORD-135391,2022-01-13,21:35:29,Completed,Mobile App,CUST-015796,Kimberly Olson,36,Female,VIP,Loyal,West Derek,Texas,10.82,South,USA,1,3,0
+ORD-151500,2023-08-02,05:03:43,Completed,Website,CUST-014279,Rebecca Roberts,21,Female,Premium,Loyal,Port Brandon,Pennsylvania,65.8,East,USA,8,2,0
+ORD-242275,2023-11-23,03:31:19,Completed,Mobile App,CUST-022324,Kayla Stewart,21,Male,Business,Loyal,East Joseph,Ohio,56.36,Central,USA,11,3,0
+ORD-230881,2021-11-12,06:01:03,Completed,Marketplace,CUST-024682,Charles Bullock,34,Male,Consumer,Loyal,West Tonyastad,England,30.29,North,UK,11,4,0
+ORD-179983,2021-04-20,11:48:05,Completed,Marketplace,CUST-008180,Madeline Davidson,45,Male,Consumer,Loyal,Johnland,Baden-Württemberg,24.0,South,Germany,4,1,0
+ORD-150153,2022-04-29,01:39:52,Completed,Mobile App,CUST-018723,Tammy Frank,49,Male,Business,Loyal,Bradleytown,Illinois,28.56,Central,USA,4,4,0
+ORD-987137,2023-09-01,00:45:27,Pending,Website,CUST-000023,Daniel Garcia,30,Female,Consumer,Loyal,New Julie,Wales,33.24,West,UK,9,4,0
+ORD-305392,2024-12-27,21:24:44,Completed,Website,CUST-020813,James Gonzalez,73,Non-Binary,Consumer,Returning,South Sara,North Carolina,7.72,South,USA,12,4,0
+ORD-894321,2023-02-14,04:23:30,Returned,Website,CUST-003624,Roger Wright,58,Female,Consumer,Loyal,East Derek,Georgia,72.1,South,USA,2,1,1
+ORD-140636,2024-08-15,07:18:33,Completed,Mobile App,CUST-002350,Krista Parrish,55,Male,Premium,Loyal,East Patricia,Georgia,28.63,South,USA,8,3,0
+ORD-729296,2022-07-06,08:13:31,Pending,Mobile App,CUST-013792,Matthew Crawford,42,Female,Consumer,Loyal,New Sarahberg,Baden-Württemberg,37.94,South,Germany,7,2,0
+ORD-888144,2024-09-12,11:13:47,Completed,Mobile App,CUST-018627,Elizabeth Riggs,38,Female,Consumer,Loyal,Christinaview,Uttar Pradesh,12.93,North,India,9,3,0
+ORD-968572,2025-04-13,01:14:21,Completed,Marketplace,CUST-013904,Steven Brown,70,Female,Premium,Loyal,Perezborough,Ontario,7.47,East,Canada,4,6,0
+ORD-422529,2021-10-09,00:32:03,Completed,Marketplace,CUST-024895,Ariel King,63,Male,VIP,Loyal,Lake Angelahaven,California,77.13,West,USA,10,5,0
+ORD-620779,2021-09-25,01:18:51,Completed,Mobile App,CUST-023805,Richard Glenn,68,Female,Premium,Loyal,Johnsontown,Baden-Württemberg,79.7,South,Germany,9,5,0
+ORD-635752,2021-05-28,16:25:17,Completed,Social Media,CUST-009665,Brandi Schwartz,70,Female,VIP,Loyal,Jamesside,Hesse,52.94,Central,Germany,5,4,0
+ORD-669234,2021-05-01,15:33:03,Completed,Mobile App,CUST-015679,Adam Cook,29,Female,Consumer,Loyal,East Jillview,South Australia,64.32,South,Australia,5,5,0
+ORD-825679,2022-12-08,23:27:46,Completed,Mobile App,CUST-003925,Lisa Hernandez,68,Non-Binary,Consumer,Loyal,Pittmanfurt,Victoria,28.31,South,Australia,12,3,0
+ORD-376647,2024-02-12,20:15:09,Completed,Mobile App,CUST-013477,Travis Williams,33,Male,Consumer,Loyal,Albertfurt,Illinois,38.34,Central,USA,2,0,0
+ORD-772475,2025-07-19,06:35:51,Completed,Social Media,CUST-007890,Sara Guerrero,61,Male,Premium,Returning,East Thomas,Ohio,5.96,Central,USA,7,5,0
+ORD-668917,2025-03-28,01:44:34,Completed,Mobile App,CUST-005356,Jessica Maldonado,35,Male,Consumer,Loyal,Lake Christopher,Ajman,36.25,North,UAE,3,4,0
+ORD-718709,2022-03-30,15:44:23,Completed,Mobile App,CUST-009232,Danny Smith,57,Female,Premium,Loyal,Andrewfurt,Florida,28.18,South,USA,3,2,0
+ORD-869225,2021-07-28,10:52:48,Completed,Mobile App,CUST-002024,Brooke Perez,41,Male,Premium,Loyal,Rebeccashire,Pennsylvania,32.53,East,USA,7,2,0
+ORD-176265,2024-12-11,05:58:03,Completed,Website,CUST-020516,Dana Allison,33,Male,Consumer,Loyal,Port Toddborough,Illinois,18.88,Central,USA,12,2,0
+ORD-762057,2021-12-27,07:50:42,Returned,Mobile App,CUST-013553,Brandon Morales,39,Male,VIP,Loyal,Howardberg,Michigan,41.19,Central,USA,12,0,1
+ORD-957009,2025-07-29,07:55:26,Pending,Mobile App,CUST-017178,Seth Small,74,Female,Premium,Loyal,Zimmermanton,Scotland,22.72,North,UK,7,1,0
+ORD-280735,2021-06-24,12:47:21,Returned,Mobile App,CUST-024025,Julie Erickson,66,Non-Binary,Consumer,Loyal,New Christinafurt,Lower Saxony,25.16,North,Germany,6,3,1
+ORD-843638,2023-03-18,13:13:55,Completed,Mobile App,CUST-009645,Beth Benjamin,34,Male,Premium,Loyal,West Virginiahaven,Alberta,11.8,Central,Canada,3,5,0
+ORD-105290,2025-06-26,08:11:55,Completed,Marketplace,CUST-019858,Derrick Perkins,74,Female,Business,Loyal,Kimmouth,Scotland,22.65,North,UK,6,3,0
+ORD-936652,2022-02-09,00:09:34,Pending,Website,CUST-015807,Thomas Davis,31,Male,Premium,Loyal,Port Robert,Texas,79.81,South,USA,2,2,0
+ORD-749446,2021-05-24,03:42:29,Completed,Website,CUST-019216,Lori Sanchez,39,Male,Consumer,Loyal,Kimberlyberg,Wales,73.2,West,UK,5,0,0
+ORD-397948,2025-12-07,23:49:05,Completed,Mobile App,CUST-019143,Richard Hunter,27,Non-Binary,Consumer,Loyal,Matthewhaven,Michigan,43.25,Central,USA,12,6,0
+ORD-757720,2022-05-16,18:12:16,Pending,Website,CUST-005556,Amy Lee,69,Female,Consumer,Loyal,East Lori,Georgia,60.11,South,USA,5,0,0
+ORD-318847,2024-04-11,17:26:38,Pending,Mobile App,CUST-023986,Sarah Melendez,59,Female,Premium,Loyal,West David,Georgia,70.79,South,USA,4,3,0
+ORD-985780,2024-10-20,19:57:08,Completed,Mobile App,CUST-005669,Michael Dawson,53,Female,Premium,Loyal,Martinberg,Ohio,5.6,Central,USA,10,6,0
+ORD-740125,2025-05-09,08:22:09,Cancelled,Mobile App,CUST-019692,Karen Wilson,62,Female,Consumer,Loyal,Port Erin,Ohio,63.95,Central,USA,5,4,1
+ORD-974388,2024-09-20,00:40:58,Completed,Mobile App,CUST-001855,Nicholas Parker,19,Female,VIP,Loyal,Thomasville,Pennsylvania,37.33,East,USA,9,4,0
+ORD-573825,2024-03-15,03:41:59,Completed,Website,CUST-015022,William Scott,21,Male,Consumer,Loyal,Julieshire,Western Australia,61.98,West,Australia,3,4,0
+ORD-578064,2022-05-06,21:21:19,Completed,Mobile App,CUST-000306,Jose Stephens,34,Male,Business,Loyal,South Desiree,Florida,29.59,South,USA,5,4,0
+ORD-970864,2021-08-12,12:36:52,Completed,Website,CUST-014933,Curtis Flynn,42,Male,Consumer,Loyal,Stephanieville,Wales,24.91,West,UK,8,3,0
+ORD-233292,2022-06-20,00:38:17,Completed,Website,CUST-014112,Tamara Nelson,42,Female,Consumer,Loyal,North Jameschester,Illinois,65.04,Central,USA,6,0,0
+ORD-959298,2024-06-26,03:47:56,Completed,Mobile App,CUST-003802,Samantha Ramirez,48,Male,Business,Returning,North Michelleberg,Lower Saxony,54.99,North,Germany,6,2,0
+ORD-330870,2024-11-28,04:33:17,Completed,Social Media,CUST-000689,Lisa Preston,59,Female,Consumer,Loyal,Geraldport,North Carolina,65.63,South,USA,11,3,0
+ORD-971857,2021-11-12,10:54:12,Completed,Social Media,CUST-004312,Carla Weeks,22,Non-Binary,Business,Loyal,Joneshaven,Scotland,37.68,North,UK,11,4,0
+ORD-471869,2023-10-01,12:00:57,Completed,Website,CUST-002132,Tamara Garza,51,Female,Premium,Loyal,Ambermouth,Florida,78.13,South,USA,10,6,0
+ORD-883623,2023-11-25,12:27:39,Completed,Marketplace,CUST-003432,Bradley Mitchell,34,Male,Consumer,Loyal,Heathermouth,Pennsylvania,23.65,East,USA,11,5,0
+ORD-608717,2021-08-12,03:11:25,Completed,Mobile App,CUST-023245,Chelsea Carey,23,Female,Premium,Loyal,South Scott,Pennsylvania,73.87,East,USA,8,3,0
+ORD-168041,2021-06-18,13:25:08,Completed,Website,CUST-006810,Danielle Beck,52,Female,Consumer,Loyal,Lake Daniel,Pennsylvania,25.82,East,USA,6,4,0
+ORD-787727,2025-03-23,11:00:07,Completed,Social Media,CUST-010670,Barbara Hamilton,26,Female,Consumer,Loyal,East Kim,Georgia,36.0,South,USA,3,6,0
+ORD-243311,2025-03-07,21:27:10,Completed,Marketplace,CUST-003981,Jessica Cochran,70,Female,Business,Loyal,Bradychester,Florida,72.94,South,USA,3,4,0
+ORD-761408,2023-11-02,01:36:58,Completed,Social Media,CUST-000226,Paige Alexander,26,Male,Consumer,Loyal,West Dianatown,Ohio,29.96,Central,USA,11,3,0
+ORD-699823,2021-11-12,14:11:10,Returned,Marketplace,CUST-001044,Christopher Martinez,34,Male,Consumer,Loyal,West Anthonybury,Ohio,78.2,Central,USA,11,4,1
+ORD-123398,2021-11-06,10:39:57,Completed,Marketplace,CUST-010515,Christopher Thomas,27,Male,Consumer,Loyal,Schultzburgh,Northern Ireland,13.75,West,UK,11,5,0
+ORD-585220,2021-05-28,07:37:27,Pending,Mobile App,CUST-017983,Aaron Hernandez,57,Male,Consumer,Loyal,Colinbury,Georgia,27.39,South,USA,5,4,0
+ORD-930174,2022-02-04,22:39:32,Completed,Marketplace,CUST-019431,Johnny Hoover,50,Male,Consumer,Loyal,Davidhaven,Bavaria,11.3,South,Germany,2,4,0
+ORD-265045,2022-12-27,12:30:32,Completed,Mobile App,CUST-013354,Isabella Pena,33,Male,VIP,Loyal,Thomasport,Michigan,19.71,Central,USA,12,1,0
+ORD-831046,2023-12-11,08:37:11,Returned,Website,CUST-001931,Daniel Hill,32,Female,VIP,Loyal,Jamesmouth,Maharashtra,5.62,West,India,12,0,1
+ORD-977080,2025-03-10,09:14:18,Completed,Mobile App,CUST-023556,Lisa Bradford,22,Male,Consumer,Loyal,Bentleytown,Northern Ireland,24.12,West,UK,3,0,0
+ORD-843778,2022-05-24,11:23:58,Completed,Mobile App,CUST-017066,Paul Stone,20,Female,Consumer,Loyal,Lake Pamela,New York,66.06,East,USA,5,1,0
+ORD-367554,2022-07-29,07:13:29,Completed,Marketplace,CUST-020403,Alexis Delgado,23,Female,Premium,Loyal,North Patrick,California,74.72,West,USA,7,4,0
+ORD-331647,2025-03-07,08:24:19,Completed,Website,CUST-023190,Brent Ballard,49,Male,Consumer,Loyal,South Andres,Michigan,38.35,Central,USA,3,4,0
+ORD-494806,2025-10-08,02:37:45,Completed,Website,CUST-021128,Sarah Yoder,27,Male,Consumer,Loyal,South Matthew,Scotland,68.24,North,UK,10,2,0
+ORD-275888,2025-07-30,11:02:01,Completed,Mobile App,CUST-023260,Christopher Stevens,34,Female,Premium,Loyal,West Andrea,Lower Saxony,21.05,North,Germany,7,2,0
+ORD-111770,2023-06-15,11:19:25,Completed,Mobile App,CUST-017980,Kevin Walker,45,Female,Consumer,Loyal,East Dwayneview,Ohio,29.31,Central,USA,6,3,0
+ORD-773021,2025-03-06,22:31:00,Completed,Website,CUST-005606,Timothy Brown,29,Male,Premium,Loyal,East Amber,Northern Ireland,40.19,West,UK,3,3,0
+ORD-940830,2021-02-19,18:00:55,Completed,Marketplace,CUST-000631,Tina Williams,69,Female,Business,Loyal,Quinnhaven,Northern Ireland,25.84,West,UK,2,4,0
+ORD-608855,2022-06-03,06:01:34,Completed,Website,CUST-020236,Kristin Gonzales,65,Male,Consumer,Loyal,East Justinshire,Maharashtra,40.81,West,India,6,4,0
+ORD-147754,2025-10-19,15:02:19,Returned,Website,CUST-015034,Matthew Young,50,Male,Consumer,Loyal,New Jesse,Scotland,26.45,North,UK,10,6,1
+ORD-741921,2021-12-08,04:42:54,Completed,Website,CUST-002184,Paul Lopez,48,Male,Consumer,Loyal,South Tracy,Georgia,7.01,South,USA,12,2,0
+ORD-787076,2025-05-23,05:01:34,Completed,Website,CUST-004416,Julie Watkins,68,Male,VIP,Loyal,North Christianport,Florida,18.6,South,USA,5,4,0
+ORD-812845,2024-07-26,12:40:26,Cancelled,Mobile App,CUST-019978,Luis Ortega,68,Male,Premium,Loyal,Lake Keithview,Scotland,13.08,North,UK,7,4,1
+ORD-877773,2025-10-15,20:19:19,Pending,Mobile App,CUST-011748,Frances Clark,34,Male,Consumer,Loyal,East John,Bavaria,43.16,South,Germany,10,2,0
+ORD-878217,2024-12-12,06:41:29,Completed,Website,CUST-024327,John Knight,61,Non-Binary,Consumer,Loyal,Emilyview,Dubai,57.72,South,UAE,12,3,0
+ORD-500817,2024-02-01,14:38:41,Pending,Website,CUST-001795,Evan Lee,37,Male,Premium,Loyal,Port Howard,Ajman,40.11,North,UAE,2,3,0
+ORD-527048,2023-05-19,03:59:49,Completed,Social Media,CUST-012627,Ashley Livingston,28,Female,Premium,Returning,Tashaville,Wales,37.7,West,UK,5,4,0
+ORD-684744,2023-10-19,17:13:35,Completed,Mobile App,CUST-000530,Deanna Miranda,65,Male,Business,Returning,Hallbury,California,65.04,West,USA,10,3,0
+ORD-333566,2024-06-02,06:15:57,Completed,Mobile App,CUST-019322,Molly Clark,49,Female,Premium,Loyal,Lake Shellyshire,California,31.54,West,USA,6,6,0
+ORD-754005,2022-03-08,14:59:27,Completed,Mobile App,CUST-013146,James Martinez,64,Female,Consumer,Loyal,Bryanfurt,Texas,46.65,South,USA,3,1,0
+ORD-898207,2024-08-04,10:46:58,Completed,Website,CUST-013870,Laurie Graham,68,Male,Premium,Loyal,Franklinmouth,Texas,19.21,South,USA,8,6,0
+ORD-217578,2023-06-09,11:31:46,Completed,Mobile App,CUST-008876,Heather Matthews,57,Male,Consumer,Loyal,West Kevinport,Pennsylvania,35.87,East,USA,6,4,0
+ORD-610748,2025-11-04,15:54:35,Completed,Website,CUST-021470,Megan Baldwin,42,Male,Consumer,Loyal,East Tracyview,Texas,79.03,South,USA,11,1,0
+ORD-447207,2025-04-24,04:27:31,Completed,Social Media,CUST-024819,James Richardson,32,Male,Business,Loyal,South Alexander,North Carolina,60.55,South,USA,4,3,0
+ORD-402691,2024-10-06,07:42:45,Returned,Website,CUST-013679,Jonathon Marquez,40,Female,Business,Returning,East Maria,Northern Ireland,53.97,West,UK,10,6,1
+ORD-217438,2023-07-07,11:19:45,Completed,Website,CUST-019111,Lindsay Wagner,37,Male,VIP,Loyal,Parkerburgh,England,31.44,North,UK,7,4,0
+ORD-930129,2025-05-10,02:03:17,Completed,Mobile App,CUST-016163,Tiffany Vaughn,22,Female,VIP,Loyal,Porterburgh,Illinois,33.97,Central,USA,5,5,0
+ORD-567393,2021-12-14,15:38:47,Completed,Mobile App,CUST-021254,George Howard,41,Female,Premium,Loyal,Ryanfurt,Georgia,73.58,South,USA,12,1,0
+ORD-538790,2025-06-07,00:48:45,Completed,Mobile App,CUST-020505,Christopher Williams,30,Female,Consumer,Loyal,Richardsfort,California,18.76,West,USA,6,5,0
+ORD-503242,2024-01-07,11:34:31,Completed,Marketplace,CUST-012150,Bridget Anderson,51,Male,Business,Loyal,West Bradleyland,Michigan,70.24,Central,USA,1,6,0
+ORD-826045,2025-12-12,23:36:45,Completed,Website,CUST-002213,David Murray,50,Male,Premium,Loyal,Perezberg,California,22.13,West,USA,12,4,0
+ORD-759596,2022-08-01,00:30:47,Completed,Marketplace,CUST-001579,Lori Cross,31,Male,Premium,Loyal,Carlsonside,Tamil Nadu,32.43,South,India,8,0,0
+ORD-641712,2021-10-20,03:37:09,Completed,Mobile App,CUST-020831,Sean Ellis,44,Non-Binary,Premium,Loyal,New Veronicabury,Illinois,51.3,Central,USA,10,2,0
+ORD-805834,2024-10-12,18:00:07,Completed,Social Media,CUST-003856,Kelly Williams,31,Male,Consumer,Loyal,Lake Nicoleberg,Victoria,63.69,South,Australia,10,5,0
+ORD-613985,2022-11-09,13:51:16,Completed,Website,CUST-008636,Jennifer Benjamin,27,Female,Premium,Loyal,Youngstad,Northern Ireland,56.67,West,UK,11,2,0
+ORD-938856,2023-08-25,05:51:07,Completed,Mobile App,CUST-014499,Jason Hernandez,23,Female,Premium,Loyal,New Kristin,Scotland,19.41,North,UK,8,4,0
+ORD-324161,2021-11-30,13:51:59,Completed,Social Media,CUST-014382,Ann Sanford,46,Female,Consumer,Loyal,Jefferyburgh,North Carolina,60.68,South,USA,11,1,0
+ORD-717471,2022-05-21,22:37:49,Pending,Website,CUST-022712,Amanda Brown,56,Male,Premium,Loyal,North Teresaburgh,New York,36.56,East,USA,5,5,0
+ORD-242088,2021-12-14,00:35:23,Completed,Mobile App,CUST-006524,Emily Gilmore,62,Female,Consumer,Loyal,Brownside,Sharjah,57.88,North,UAE,12,1,0
+ORD-444701,2023-05-22,01:45:42,Completed,Website,CUST-021124,Stacey Marshall,21,Female,Premium,Loyal,South Billy,California,27.26,West,USA,5,0,0
+ORD-399214,2023-12-08,07:41:16,Pending,Social Media,CUST-001719,Amber Farmer,21,Male,Premium,Loyal,East Craig,New York,15.0,East,USA,12,4,0
+ORD-828591,2021-11-30,23:24:06,Completed,Mobile App,CUST-018316,Laura Perez,56,Male,VIP,Loyal,Stephanieview,Hesse,50.15,Central,Germany,11,1,0
+ORD-366843,2024-03-07,21:57:20,Completed,Mobile App,CUST-006977,Lindsay Lopez,57,Female,Consumer,Loyal,South Cameron,Abu Dhabi,9.17,South,UAE,3,3,0
+ORD-676952,2023-06-17,07:59:25,Completed,Mobile App,CUST-014069,Cory Brewer,22,Female,Consumer,Returning,Rebeccaton,Hesse,65.95,Central,Germany,6,5,0
+ORD-939335,2021-07-04,12:25:34,Completed,Marketplace,CUST-010650,Tiffany Edwards,55,Female,Premium,Loyal,North Williammouth,Florida,12.2,South,USA,7,6,0
+ORD-761041,2021-07-01,21:57:49,Completed,Website,CUST-021673,Brandon White,40,Female,Premium,Loyal,North Raymond,South Australia,13.5,South,Australia,7,3,0
+ORD-462216,2024-06-10,04:43:32,Cancelled,Website,CUST-005597,John Terry,61,Female,Consumer,Loyal,Leslieland,Illinois,38.87,Central,USA,6,0,1
+ORD-850708,2024-01-20,06:03:31,Completed,Social Media,CUST-024988,Carlos Garcia,39,Male,Premium,Loyal,Robertland,Pennsylvania,34.25,East,USA,1,5,0
+ORD-455516,2023-07-08,15:51:05,Completed,Social Media,CUST-003791,James Brewer,42,Female,Consumer,Returning,Lake Brian,Scotland,33.08,North,UK,7,5,0
+ORD-890067,2025-03-30,08:48:18,Completed,Mobile App,CUST-003174,Melissa Martinez,55,Male,Consumer,Loyal,Wrightmouth,California,11.73,West,USA,3,6,0
+ORD-501919,2025-02-14,03:39:18,Completed,Mobile App,CUST-013126,James Ibarra,42,Female,Premium,Loyal,Eugenefurt,Texas,77.23,South,USA,2,4,0
+ORD-491103,2024-11-06,17:00:07,Completed,Website,CUST-016341,Sharon Freeman,71,Male,Premium,Loyal,Matthewport,California,27.28,West,USA,11,2,0
+ORD-125426,2024-01-15,06:52:05,Completed,Website,CUST-019636,Benjamin Rasmussen,71,Male,Consumer,Loyal,South Sharon,Michigan,37.28,Central,USA,1,0,0
+ORD-178215,2022-03-26,08:25:39,Completed,Website,CUST-019333,Alexandra Kim,56,Female,Consumer,Loyal,New Angelica,Illinois,43.67,Central,USA,3,5,0
+ORD-857440,2025-04-06,13:47:32,Completed,Mobile App,CUST-021197,Timothy Nguyen,26,Male,Premium,Loyal,Thomasborough,Northern Ireland,49.59,West,UK,4,6,0
+ORD-105483,2024-09-14,07:22:49,Completed,Website,CUST-014547,Seth Perez,68,Male,Consumer,Loyal,Bondstad,New York,9.62,East,USA,9,5,0
+ORD-368263,2022-02-13,23:15:00,Returned,Mobile App,CUST-008801,Crystal Adams,48,Male,Consumer,Loyal,Elizabethbury,Illinois,62.39,Central,USA,2,6,1
+ORD-729670,2021-06-18,03:16:37,Completed,Mobile App,CUST-023730,Courtney Harris,33,Male,Business,Loyal,Hortonburgh,Lower Saxony,72.11,North,Germany,6,4,0
+ORD-668060,2022-02-04,11:43:46,Completed,Website,CUST-013510,Leslie May,61,Male,Consumer,Loyal,South Jimmy,Quebec,44.76,East,Canada,2,4,0
+ORD-317263,2025-03-17,05:37:02,Completed,Mobile App,CUST-017726,Brian Morris,41,Female,Consumer,Loyal,East Anthony,Georgia,61.54,South,USA,3,0,0
+ORD-791388,2022-10-30,06:54:08,Cancelled,Mobile App,CUST-006291,Tracy Cox,57,Female,Premium,Loyal,Lake Annehaven,Texas,5.74,South,USA,10,6,1
+ORD-655952,2023-07-26,16:07:27,Completed,Website,CUST-017441,Rodney Casey,35,Male,Premium,Loyal,Lake Christopher,Texas,75.34,South,USA,7,2,0
+ORD-244866,2021-10-20,09:37:49,Completed,Mobile App,CUST-017731,Scott Torres,66,Male,Business,Loyal,East John,Abu Dhabi,63.27,South,UAE,10,2,0
+ORD-992729,2021-07-16,18:50:14,Completed,Mobile App,CUST-020939,Cory Walker,24,Male,Consumer,Loyal,East Carrietown,Texas,27.75,South,USA,7,4,0
+ORD-946764,2022-12-12,15:48:27,Completed,Mobile App,CUST-007336,Heather Hill,44,Male,Premium,Returning,Marshport,Northern Ireland,71.39,West,UK,12,0,0
+ORD-529833,2023-11-26,19:38:09,Cancelled,Mobile App,CUST-021107,Trevor Hall,66,Male,Consumer,Loyal,South Shelley,Pennsylvania,9.28,East,USA,11,6,1
+ORD-141306,2024-10-17,13:45:07,Completed,Marketplace,CUST-016781,Tammy Williams,52,Male,Premium,Loyal,North Bradleymouth,California,63.44,West,USA,10,3,0
+ORD-586726,2021-12-18,21:06:26,Completed,Website,CUST-010026,James Rodriguez,26,Male,Premium,Loyal,East Lindaland,Pennsylvania,16.55,East,USA,12,5,0
+ORD-928449,2024-06-23,11:24:08,Completed,Mobile App,CUST-007081,Denise Abbott,74,Male,Premium,Loyal,Port Amanda,Pennsylvania,68.83,East,USA,6,6,0
+ORD-523684,2023-08-10,08:27:10,Completed,Social Media,CUST-005890,Justin Richard,27,Male,Consumer,Loyal,Port Audrey,Texas,30.21,South,USA,8,3,0
+ORD-283070,2023-01-12,03:38:06,Completed,Website,CUST-009356,Tina Munoz,73,Male,Consumer,Loyal,East Morgan,Texas,30.11,South,USA,1,3,0
+ORD-650125,2023-07-25,21:30:48,Completed,Mobile App,CUST-005147,Jose Shaw,21,Male,Premium,Loyal,Garciamouth,Texas,54.05,South,USA,7,1,0
+ORD-354666,2025-02-04,21:53:40,Returned,Marketplace,CUST-003650,Stacey Miller,28,Male,Consumer,Loyal,Princehaven,Georgia,51.02,South,USA,2,1,1
+ORD-593011,2022-09-04,19:12:56,Completed,Website,CUST-016120,Melissa Rich,21,Female,Consumer,Loyal,Morrowton,California,33.85,West,USA,9,6,0
+ORD-903290,2023-06-03,04:10:05,Cancelled,Marketplace,CUST-019941,Kenneth Ortega,47,Male,Business,Loyal,Watsonside,Wales,9.07,West,UK,6,5,1
+ORD-564258,2021-11-05,12:10:27,Completed,Website,CUST-002905,Brian Golden,68,Female,Business,Loyal,Ortizburgh,Pennsylvania,18.28,East,USA,11,4,0
+ORD-910343,2025-07-29,07:30:57,Completed,Website,CUST-016451,Julie Castillo,73,Female,Consumer,Loyal,South Miguelport,Tamil Nadu,73.66,South,India,7,1,0
+ORD-457906,2023-06-19,22:16:52,Completed,Website,CUST-013814,Daniel Castillo,27,Female,Consumer,Loyal,Crawfordville,Pennsylvania,5.26,East,USA,6,0,0
+ORD-200890,2025-11-15,16:03:53,Completed,Website,CUST-018245,Nathan Baker,40,Male,Premium,Loyal,Edwardchester,Hesse,49.34,Central,Germany,11,5,0
+ORD-593204,2022-09-04,23:41:26,Completed,Mobile App,CUST-020513,Andrew Randall,38,Male,VIP,Loyal,Marybury,North Rhine,63.73,West,Germany,9,6,0
+ORD-812271,2025-04-04,17:05:45,Completed,Mobile App,CUST-006346,Jeremy Wilson,56,Female,Consumer,Loyal,Sheilaberg,New York,21.56,East,USA,4,4,0
+ORD-181676,2022-10-11,16:40:27,Completed,Mobile App,CUST-003926,Linda Cooper,41,Female,Premium,Loyal,New Michaelbury,Bavaria,59.51,South,Germany,10,1,0
+ORD-407390,2024-06-10,11:05:24,Completed,Social Media,CUST-017402,Arthur Lee,63,Male,Premium,Loyal,South Tammy,Hesse,69.64,Central,Germany,6,0,0
+ORD-934114,2022-03-04,08:46:34,Completed,Social Media,CUST-013253,Ricardo Johnson,72,Male,Consumer,Loyal,New Danielberg,Western Australia,10.53,West,Australia,3,4,0
+ORD-344799,2021-10-01,10:08:04,Completed,Website,CUST-006600,John Hunter,27,Male,Consumer,Loyal,Michaelchester,Michigan,51.47,Central,USA,10,4,0
+ORD-766345,2024-11-15,15:14:02,Completed,Website,CUST-003422,Brandon Reilly,48,Female,Consumer,Loyal,South Joelfurt,Ohio,64.16,Central,USA,11,4,0
+ORD-298594,2022-04-20,22:45:13,Completed,Website,CUST-016921,Sharon Mitchell,72,Female,Consumer,Loyal,Lake Caleb,Wales,43.72,West,UK,4,2,0
+ORD-285751,2023-11-03,22:16:41,Completed,Mobile App,CUST-011761,Tamara Smith,71,Male,Business,Loyal,Heatherborough,California,79.46,West,USA,11,4,0
+ORD-226032,2021-03-12,07:28:38,Completed,Website,CUST-010445,Brandon Adams,25,Male,Consumer,Loyal,West Kimberlymouth,Pennsylvania,32.41,East,USA,3,4,0
+ORD-739522,2021-09-15,03:22:33,Completed,Marketplace,CUST-024376,Paul Leonard,49,Female,VIP,Loyal,North Karenland,North Carolina,70.94,South,USA,9,2,0
+ORD-915863,2022-02-24,03:04:57,Completed,Mobile App,CUST-016259,Matthew Spencer,61,Female,Consumer,Loyal,Lake Thomas,California,68.32,West,USA,2,3,0
+ORD-594526,2024-01-26,05:58:24,Completed,Website,CUST-016104,James Wilson,29,Female,Premium,Loyal,Kellystad,North Carolina,68.6,South,USA,1,4,0
+ORD-573571,2023-03-15,19:42:28,Completed,Mobile App,CUST-015004,Ronald Washington,55,Female,Business,Loyal,Shanemouth,Baden-Württemberg,79.51,South,Germany,3,2,0
+ORD-890291,2024-03-08,10:19:29,Completed,Website,CUST-006554,Nicole Gross,73,Female,Consumer,Loyal,Michelleland,England,28.63,North,UK,3,4,0
+ORD-219468,2023-10-11,08:52:01,Completed,Mobile App,CUST-016659,Sarah Craig,37,Female,Consumer,Loyal,Davisbury,Georgia,5.12,South,USA,10,2,0
+ORD-240382,2024-05-12,01:19:15,Completed,Mobile App,CUST-010947,Ryan Stone,45,Female,Business,Loyal,Port Sethview,Georgia,58.91,South,USA,5,6,0
+ORD-217398,2025-10-11,09:09:52,Completed,Website,CUST-015866,David Patel,63,Male,Consumer,Loyal,New Emily,Quebec,17.93,East,Canada,10,5,0
+ORD-573045,2025-06-07,00:07:38,Completed,Social Media,CUST-006848,Alexandra Richardson,72,Female,Consumer,Loyal,Port Erica,Pennsylvania,74.48,East,USA,6,5,0
+ORD-752604,2022-07-31,07:05:43,Cancelled,Website,CUST-009203,Kurt Hansen,67,Female,Premium,Loyal,Lake Lori,Michigan,44.59,Central,USA,7,6,1
+ORD-720192,2023-04-01,08:00:30,Completed,Mobile App,CUST-011675,Vernon Becker,55,Male,Premium,Loyal,Cummingsfort,New York,75.91,East,USA,4,5,0
+ORD-939796,2021-06-03,20:00:26,Completed,Mobile App,CUST-010355,Amy Decker,32,Male,VIP,Loyal,North Whitneymouth,Illinois,41.74,Central,USA,6,3,0
+ORD-273270,2022-11-28,18:00:27,Completed,Website,CUST-021013,Alexander Dunn,52,Female,Consumer,Loyal,North Nathan,Illinois,14.91,Central,USA,11,0,0
+ORD-668811,2022-12-29,22:54:00,Completed,Mobile App,CUST-021384,Ryan Garcia,32,Male,Consumer,Returning,Andrewfurt,Texas,53.52,South,USA,12,3,0
+ORD-173717,2024-12-22,04:11:03,Completed,Website,CUST-017285,Christopher Gould,71,Female,Premium,Loyal,South Pamela,Georgia,49.58,South,USA,12,6,0
+ORD-847978,2021-10-19,23:19:31,Completed,Mobile App,CUST-022322,Anthony Brown,54,Female,VIP,Loyal,Davidshire,Pennsylvania,70.68,East,USA,10,1,0
+ORD-379400,2021-03-29,19:21:08,Completed,Mobile App,CUST-006651,Kathleen Richardson,24,Male,Premium,Loyal,Victoriaport,Northern Ireland,53.38,West,UK,3,0,0
+ORD-366278,2021-12-18,01:34:26,Returned,Mobile App,CUST-012813,Ashley Taylor,53,Female,Consumer,Loyal,Claireview,Gujarat,50.04,West,India,12,5,1
+ORD-735039,2024-06-29,13:21:47,Completed,Mobile App,CUST-016142,Cindy Banks,21,Male,Consumer,Returning,Tonishire,Ontario,51.7,East,Canada,6,5,0
+ORD-179423,2022-10-09,05:06:17,Completed,Social Media,CUST-002013,William Archer,39,Female,VIP,Loyal,East Courtney,Florida,59.16,South,USA,10,6,0
+ORD-293554,2022-09-12,04:15:11,Completed,Website,CUST-016737,Lisa Jensen,68,Male,Premium,Loyal,Gonzalezberg,Scotland,53.03,North,UK,9,0,0
+ORD-947100,2025-09-25,22:20:30,Completed,Social Media,CUST-018248,James Rivera,59,Male,Consumer,Loyal,Lake Robert,Florida,37.09,South,USA,9,3,0
+ORD-621199,2022-11-30,08:50:55,Completed,Mobile App,CUST-010764,Kimberly White,30,Female,Consumer,Returning,Alexanderfurt,Ohio,47.56,Central,USA,11,2,0
+ORD-733181,2023-12-20,16:12:45,Completed,Mobile App,CUST-009754,David Aguilar,32,Male,Consumer,Loyal,Juanburgh,Scotland,26.03,North,UK,12,2,0
+ORD-758391,2023-02-18,01:09:37,Returned,Website,CUST-006333,Victoria Thomas,40,Female,Premium,Loyal,Nixonville,California,28.81,West,USA,2,5,1
+ORD-506181,2023-07-24,08:21:04,Completed,Mobile App,CUST-004185,Caleb Fields,18,Female,Premium,Loyal,Suttonburgh,Hesse,50.74,Central,Germany,7,0,0
+ORD-896110,2024-11-21,15:12:16,Pending,Social Media,CUST-014141,Melissa Simpson,24,Female,Premium,Loyal,Anthonyville,Northern Ireland,17.43,West,UK,11,3,0
+ORD-333280,2022-02-05,06:50:19,Completed,Website,CUST-015686,Jeffrey Salas,22,Female,Business,Loyal,Martinezburgh,North Carolina,29.01,South,USA,2,5,0
+ORD-259414,2021-03-22,21:56:04,Completed,Mobile App,CUST-012119,Derek Mendoza,34,Non-Binary,Premium,Loyal,Port Jamieburgh,Tamil Nadu,8.44,South,India,3,0,0
+ORD-986677,2024-08-10,04:29:57,Completed,Website,CUST-019142,Danielle Dillon,34,Female,Consumer,Loyal,Jocelynmouth,Queensland,38.2,North,Australia,8,5,0
+ORD-323108,2021-01-02,16:33:10,Completed,Mobile App,CUST-020322,Richard Lozano,24,Female,Consumer,Loyal,Websterfort,Ohio,57.1,Central,USA,1,5,0
+ORD-806349,2021-06-21,06:37:57,Completed,Website,CUST-020591,Dennis Hanson,74,Female,VIP,Loyal,Smithtown,Hesse,30.43,Central,Germany,6,0,0
+ORD-235480,2022-02-11,20:08:44,Completed,Website,CUST-010869,Theresa Pennington,53,Female,VIP,Loyal,Port Edwardfort,Ohio,55.03,Central,USA,2,4,0
+ORD-616225,2023-12-20,16:15:31,Completed,Social Media,CUST-016526,Anthony Cuevas,40,Female,Consumer,Loyal,Anashire,Florida,13.38,South,USA,12,2,0
+ORD-296568,2021-01-08,06:42:36,Completed,Marketplace,CUST-018423,Michael Andrews,53,Female,Premium,Loyal,North Latoya,Ontario,19.06,East,Canada,1,4,0
+ORD-970593,2025-08-30,11:35:51,Completed,Website,CUST-014624,Katherine Miller,52,Female,Premium,Loyal,Jillchester,Dubai,29.95,South,UAE,8,5,0
+ORD-124558,2022-03-29,19:26:38,Completed,Mobile App,CUST-017701,Eric Smith,41,Female,Consumer,Loyal,Mcbrideport,Ohio,18.72,Central,USA,3,1,0
+ORD-324548,2024-12-23,14:38:06,Completed,Website,CUST-002058,Kelly Garrison,67,Male,Consumer,Loyal,Monicaburgh,Ontario,30.0,East,Canada,12,0,0
+ORD-726328,2022-07-06,06:48:02,Cancelled,Mobile App,CUST-007364,Megan Lin,38,Female,Consumer,Loyal,Lake Geraldberg,Georgia,49.56,South,USA,7,2,1
+ORD-199067,2021-07-22,06:24:45,Completed,Mobile App,CUST-023489,Alicia Johnson,33,Male,Consumer,Loyal,West Brandon,Texas,60.75,South,USA,7,3,0
+ORD-881742,2022-12-07,04:19:03,Completed,Social Media,CUST-005792,Sophia Miller,52,Male,Consumer,Loyal,Erikaland,Hesse,47.84,Central,Germany,12,2,0
+ORD-558609,2022-04-11,22:13:46,Completed,Mobile App,CUST-008505,Alexander Meyers,39,Male,Consumer,Returning,Thomastown,Pennsylvania,46.35,East,USA,4,0,0
+ORD-388297,2025-04-05,15:11:36,Returned,Mobile App,CUST-022901,David Peterson,55,Female,Consumer,Loyal,West Joel,Michigan,18.36,Central,USA,4,5,1
+ORD-199037,2025-11-17,16:59:03,Completed,Mobile App,CUST-023024,Ashley Rojas,28,Female,Premium,Loyal,Elizabethtown,Northern Ireland,13.55,West,UK,11,0,0
+ORD-607628,2025-05-24,20:40:22,Completed,Mobile App,CUST-014791,Matthew Horton,60,Male,Consumer,Loyal,Angelatown,Illinois,60.27,Central,USA,5,5,0
+ORD-633054,2024-09-26,14:27:23,Completed,Website,CUST-021535,Robert Smith,34,Female,Premium,Loyal,New Alexandra,Pennsylvania,56.6,East,USA,9,3,0
+ORD-658792,2023-01-16,02:51:50,Completed,Social Media,CUST-014392,Melissa Davis,18,Female,Consumer,Loyal,Craigland,Georgia,9.33,South,USA,1,0,0
+ORD-937269,2023-01-23,20:16:41,Completed,Marketplace,CUST-014946,Sharon Davidson,44,Female,Consumer,Loyal,Daniellehaven,New York,20.24,East,USA,1,0,0
+ORD-775991,2023-05-05,21:14:44,Returned,Website,CUST-013228,Alyssa Petersen,39,Male,Consumer,Loyal,Rachelstad,New York,23.47,East,USA,5,4,1
+ORD-331418,2022-08-26,08:48:57,Completed,Social Media,CUST-006935,Laurie Henderson,47,Female,Consumer,Loyal,Ryanville,New South Wales,56.5,East,Australia,8,4,0
+ORD-384142,2024-11-23,07:11:01,Completed,Mobile App,CUST-023675,Rodney Stewart,56,Female,Premium,Loyal,East Cristina,Illinois,67.98,Central,USA,11,5,0
+ORD-546208,2021-09-29,06:58:52,Completed,Mobile App,CUST-018651,Derek Rivera,32,Male,VIP,Loyal,North Lindseybury,Baden-Württemberg,23.7,South,Germany,9,2,0
+ORD-295582,2023-09-29,00:31:54,Pending,Website,CUST-005558,John Schmidt,49,Male,Consumer,Loyal,Alexandramouth,Western Australia,22.63,West,Australia,9,4,0
+ORD-565144,2023-05-30,13:00:30,Completed,Social Media,CUST-020229,Andrew Barker,55,Male,Consumer,Loyal,Stephanieborough,California,56.31,West,USA,5,1,0
+ORD-228435,2024-06-21,17:11:34,Completed,Mobile App,CUST-024136,Stacey Craig,55,Male,Premium,Loyal,Perezland,Florida,54.81,South,USA,6,4,0
+ORD-459603,2021-12-18,03:55:01,Completed,Mobile App,CUST-020617,Natasha Ramirez,26,Male,VIP,Loyal,Katherinestad,Florida,45.58,South,USA,12,5,0
+ORD-932319,2022-06-06,05:35:19,Completed,Social Media,CUST-016189,Courtney Harrison,33,Female,Consumer,Returning,New John,Abu Dhabi,34.39,South,UAE,6,0,0
+ORD-962298,2022-12-12,05:51:16,Pending,Social Media,CUST-022510,Randy Hawkins,59,Non-Binary,Premium,Loyal,Port Arthur,California,70.7,West,USA,12,0,0
+ORD-317852,2022-11-19,04:09:09,Completed,Mobile App,CUST-003359,Brandy Thompson,64,Male,Consumer,Returning,Nicholasshire,Ohio,58.09,Central,USA,11,5,0
+ORD-318592,2021-07-15,22:11:17,Completed,Marketplace,CUST-017001,Todd Forbes,44,Female,Premium,Loyal,South Jasmine,Wales,59.51,West,UK,7,3,0
+ORD-871201,2025-03-14,06:15:48,Completed,Website,CUST-019979,Madeline Edwards,25,Female,Consumer,Loyal,Lindsayside,New York,14.33,East,USA,3,4,0
+ORD-582756,2023-12-08,08:19:26,Returned,Website,CUST-012144,Kevin Parker,31,Male,Consumer,Loyal,Lake Amy,Wales,24.61,West,UK,12,4,1
+ORD-602045,2021-04-06,17:15:01,Completed,Social Media,CUST-000849,Jennifer Edwards,24,Female,VIP,Loyal,Alanview,Texas,45.24,South,USA,4,1,0
+ORD-258593,2023-08-29,11:36:19,Completed,Website,CUST-002300,Richard Castro,20,Female,Premium,Loyal,South Cindytown,Georgia,73.72,South,USA,8,1,0
+ORD-207104,2022-09-18,20:26:26,Completed,Website,CUST-011178,Travis Rodriguez,42,Male,VIP,Loyal,Roberthaven,Bavaria,24.86,South,Germany,9,6,0
+ORD-964748,2023-10-28,10:09:14,Cancelled,Mobile App,CUST-024777,Mike Garrett,31,Male,VIP,Loyal,Santoshaven,Ohio,6.08,Central,USA,10,5,1
+ORD-851066,2025-06-11,22:48:19,Returned,Website,CUST-010312,Jeffrey Thomas,36,Male,Business,Loyal,North Markfort,Lower Saxony,16.63,North,Germany,6,2,1
+ORD-235061,2022-04-05,14:19:03,Completed,Mobile App,CUST-002170,Taylor Ward,61,Male,Premium,Loyal,West Erikside,Tamil Nadu,64.08,South,India,4,1,0
+ORD-159044,2023-05-16,11:20:39,Completed,Website,CUST-014570,Stephanie Martin,71,Female,Business,Loyal,South Yesenia,Ontario,38.33,East,Canada,5,1,0
+ORD-891310,2023-02-19,02:11:09,Completed,Website,CUST-021872,Deborah Howard,45,Male,Premium,Loyal,Lake Kimshire,California,21.26,West,USA,2,6,0
+ORD-590245,2023-08-15,00:34:37,Completed,Website,CUST-009757,Alicia Hernandez,59,Female,Consumer,Loyal,South Codytown,Texas,53.96,South,USA,8,1,0
+ORD-989834,2021-02-05,16:29:12,Completed,Mobile App,CUST-013116,Nathan Sutton,34,Female,Consumer,Loyal,Martinezbury,Tamil Nadu,45.15,South,India,2,4,0
+ORD-151894,2024-06-03,13:00:06,Pending,Mobile App,CUST-008023,Daniel Villanueva,45,Female,Premium,Loyal,Smithberg,New York,59.9,East,USA,6,0,0
+ORD-535837,2021-12-22,20:30:33,Completed,Website,CUST-001084,Sierra Wilson,71,Female,Consumer,Loyal,Brittneyberg,Ajman,37.76,North,UAE,12,2,0
+ORD-148078,2023-08-15,11:37:30,Returned,Marketplace,CUST-014784,Dana Torres,72,Male,Premium,Loyal,Lake Kevinhaven,North Carolina,33.42,South,USA,8,1,1
+ORD-533837,2024-11-30,18:47:08,Completed,Marketplace,CUST-018984,Zachary Rivera,23,Female,Consumer,Loyal,South Margaret,Northern Ireland,49.27,West,UK,11,5,0
+ORD-411403,2024-06-12,13:36:05,Completed,Website,CUST-007618,Alexis Wilson,62,Male,Premium,Loyal,North Juan,Western Australia,27.08,West,Australia,6,2,0
+ORD-544516,2023-05-12,13:05:09,Returned,Mobile App,CUST-023775,Robert Hall,18,Male,Premium,Returning,East Raymond,Northern Ireland,53.08,West,UK,5,4,1
+ORD-836121,2023-08-02,00:41:44,Completed,Mobile App,CUST-006429,Paula Bowen,55,Male,Consumer,Loyal,New Johnnyton,South Australia,17.82,South,Australia,8,2,0
+ORD-556788,2024-10-07,12:51:52,Completed,Mobile App,CUST-007092,Robert Mckenzie,50,Male,Consumer,Loyal,New Maureen,Texas,5.4,South,USA,10,0,0
+ORD-743171,2022-11-12,17:35:06,Completed,Mobile App,CUST-012978,Beverly Miller,44,Female,VIP,Loyal,West Alexandra,Wales,10.12,West,UK,11,5,0
+ORD-444790,2022-05-20,18:56:44,Completed,Mobile App,CUST-014318,Daniel Price,26,Female,Premium,Loyal,Hamiltonton,Michigan,25.01,Central,USA,5,4,0
+ORD-275829,2024-12-12,04:40:52,Completed,Marketplace,CUST-020733,Michael Henson,24,Male,Consumer,Loyal,West Aaronfort,North Carolina,34.8,South,USA,12,3,0
+ORD-249697,2024-09-11,06:58:53,Completed,Mobile App,CUST-010140,Mary Ramirez,48,Female,Consumer,Returning,West Justin,Pennsylvania,45.48,East,USA,9,2,0
+ORD-111945,2025-01-13,15:26:12,Completed,Mobile App,CUST-014696,Sharon Ortiz,34,Male,Consumer,Loyal,Burtonfurt,Texas,7.92,South,USA,1,0,0
+ORD-613007,2023-11-18,11:28:22,Completed,Mobile App,CUST-023256,Michele Nixon,49,Male,Consumer,Loyal,Katherineview,Maharashtra,64.44,West,India,11,5,0
+ORD-165019,2021-12-01,19:49:16,Returned,Mobile App,CUST-020185,Stephanie Mills,67,Male,Consumer,Loyal,Cynthiaview,Michigan,34.52,Central,USA,12,2,1
+ORD-363448,2022-06-22,00:52:29,Completed,Website,CUST-008728,Robert Knight,51,Male,Business,Loyal,Stephensland,Queensland,17.16,North,Australia,6,2,0
+ORD-363655,2025-07-01,00:53:15,Completed,Mobile App,CUST-001643,Linda Anderson,32,Male,Premium,Loyal,Micheleview,Quebec,79.52,East,Canada,7,1,0
+ORD-140377,2023-08-28,15:27:30,Completed,Social Media,CUST-018870,Julia Watson,69,Male,Premium,Loyal,Jeffreyview,Bavaria,6.86,South,Germany,8,0,0
+ORD-707376,2022-11-27,12:40:55,Completed,Social Media,CUST-003889,Michelle Bell,58,Male,Business,Loyal,New Amandaland,Ohio,75.58,Central,USA,11,6,0
+ORD-466435,2023-06-27,01:18:58,Completed,Social Media,CUST-023701,Elizabeth Howard,35,Male,VIP,Returning,East Michellemouth,Wales,48.71,West,UK,6,1,0
+ORD-925564,2025-06-26,10:45:08,Completed,Mobile App,CUST-000085,John Middleton,20,Female,Premium,Loyal,South Cherylton,England,29.33,North,UK,6,3,0
+ORD-859073,2023-11-26,12:18:09,Completed,Marketplace,CUST-002577,Jonathan Santiago,22,Male,Consumer,Loyal,Josechester,England,18.69,North,UK,11,6,0
+ORD-618979,2025-09-06,20:17:54,Returned,Mobile App,CUST-007782,Tiffany Jacobs,44,Female,Consumer,Returning,Lindsaychester,Michigan,34.18,Central,USA,9,5,1
+ORD-450810,2023-01-02,14:53:21,Completed,Website,CUST-023836,Tommy Johnson,38,Male,Premium,Loyal,West Tiffany,Bavaria,38.12,South,Germany,1,0,0
+ORD-547155,2021-11-11,13:19:08,Completed,Website,CUST-002597,Michelle Chapman,41,Male,Premium,Loyal,North Adamtown,Lower Saxony,74.53,North,Germany,11,3,0
+ORD-601299,2023-06-07,09:20:58,Completed,Mobile App,CUST-013641,Melissa Robbins,20,Female,Premium,Loyal,Youngmouth,Illinois,32.3,Central,USA,6,2,0
+ORD-858247,2023-08-15,11:41:40,Completed,Website,CUST-006088,Daniel Griffith,45,Female,Consumer,Loyal,West Nicholasbury,Texas,12.41,South,USA,8,1,0
+ORD-527472,2021-02-15,15:57:57,Completed,Website,CUST-008719,Jeremy Brown,62,Female,Consumer,Loyal,Lake David,North Carolina,51.39,South,USA,2,0,0
+ORD-452080,2024-09-05,20:58:26,Completed,Mobile App,CUST-003532,Kimberly Mercado,22,Female,Premium,Loyal,Lorraineshire,Florida,64.88,South,USA,9,3,0
+ORD-598682,2025-01-13,03:29:31,Cancelled,Mobile App,CUST-002155,Shawn Smith,23,Male,Consumer,Loyal,Andrestad,British Columbia,28.13,West,Canada,1,0,1
+ORD-901482,2023-10-01,07:51:40,Completed,Website,CUST-000593,Maureen Hodges,74,Female,Consumer,Returning,Deborahburgh,Ohio,65.7,Central,USA,10,6,0
+ORD-654715,2025-11-13,18:01:01,Completed,Marketplace,CUST-013040,Timothy Cunningham,39,Male,Business,Loyal,Port Matthewberg,Dubai,77.34,South,UAE,11,3,0
+ORD-531398,2025-10-18,00:29:32,Completed,Website,CUST-013781,Tammy Edwards,40,Female,Consumer,Loyal,New Crystal,Texas,59.72,South,USA,10,5,0
+ORD-262620,2022-07-14,01:54:19,Pending,Mobile App,CUST-021681,Jessica Parker,63,Female,Premium,Returning,North Amanda,Manitoba,29.48,Central,Canada,7,3,0
+ORD-200797,2021-11-04,07:45:51,Completed,Website,CUST-009568,Charles Bright,61,Female,Premium,Loyal,New Dylan,Gujarat,36.4,West,India,11,3,0
+ORD-571080,2025-10-20,13:12:51,Completed,Marketplace,CUST-019916,Colleen Wise,50,Male,Consumer,Loyal,Meganside,Queensland,22.9,North,Australia,10,0,0
+ORD-529795,2024-11-06,04:02:24,Completed,Mobile App,CUST-003819,Michael Murphy,51,Male,Consumer,Loyal,New Mike,California,55.02,West,USA,11,2,0
+ORD-671632,2024-03-09,04:01:59,Returned,Website,CUST-020668,Debbie Gonzalez,48,Male,Consumer,Loyal,East Mary,California,37.16,West,USA,3,5,1
+ORD-919807,2024-08-13,06:58:46,Completed,Website,CUST-005868,Donald Clark,67,Female,Consumer,Loyal,Susanshire,North Carolina,26.55,South,USA,8,1,0
+ORD-778751,2023-01-14,09:00:23,Completed,Website,CUST-005662,Justin Vasquez,43,Female,Business,Loyal,Montgomeryville,Pennsylvania,50.46,East,USA,1,5,0
+ORD-756611,2021-05-14,22:21:13,Cancelled,Website,CUST-009845,Michael Burton,19,Male,Consumer,Loyal,New Paul,Ohio,60.06,Central,USA,5,4,1
+ORD-272337,2022-11-04,14:15:37,Completed,Mobile App,CUST-009053,Heather Bender,20,Female,Consumer,Loyal,North Seanmouth,Karnataka,59.64,South,India,11,4,0
+ORD-235327,2024-01-18,20:48:21,Pending,Mobile App,CUST-003188,Wendy West,72,Male,VIP,Loyal,Kingtown,Baden-Württemberg,58.15,South,Germany,1,3,0
+ORD-503699,2022-07-30,16:46:07,Returned,Mobile App,CUST-001036,Kevin Ponce,73,Male,Consumer,Loyal,Willischester,Pennsylvania,55.21,East,USA,7,5,1
+ORD-803603,2021-12-08,05:32:45,Returned,Mobile App,CUST-020927,Spencer Neal,72,Male,Business,Loyal,South Danielburgh,Dubai,6.45,South,UAE,12,2,1
+ORD-351139,2025-05-12,15:05:07,Completed,Mobile App,CUST-003269,Carl Huff,55,Female,Premium,Loyal,North Jenniferland,England,71.36,North,UK,5,0,0
+ORD-336808,2025-12-19,08:20:15,Cancelled,Website,CUST-003217,Cassandra Martinez,64,Male,Consumer,Loyal,Port Trevor,Georgia,9.93,South,USA,12,4,1
+ORD-774696,2024-10-16,10:01:23,Completed,Mobile App,CUST-016814,Mary Johnson,27,Male,Consumer,Loyal,East Jared,Hesse,63.65,Central,Germany,10,2,0
+ORD-513879,2021-08-20,06:06:38,Returned,Social Media,CUST-022519,Karen Kim,59,Female,Consumer,Loyal,Port Michael,Michigan,12.14,Central,USA,8,4,1
+ORD-286403,2021-06-09,08:13:26,Completed,Social Media,CUST-005085,Joshua Stephenson,28,Male,Consumer,Loyal,East Patrickberg,Pennsylvania,43.62,East,USA,6,2,0
+ORD-676614,2025-03-29,22:52:43,Completed,Mobile App,CUST-012411,Anthony Jefferson,67,Female,Premium,Loyal,Tinaside,Ohio,10.1,Central,USA,3,5,0
+ORD-534674,2023-12-06,04:26:49,Completed,Website,CUST-001072,Luke Shaw,54,Male,Consumer,Returning,West Wendyshire,Pennsylvania,38.64,East,USA,12,2,0
+ORD-729690,2024-11-02,18:26:02,Returned,Mobile App,CUST-004684,Laura Foster,43,Male,Premium,Returning,Grayville,Sharjah,66.96,North,UAE,11,5,1
+ORD-418736,2022-02-03,06:17:20,Completed,Social Media,CUST-010632,Todd Peters,26,Female,Business,Loyal,New Edward,Michigan,65.98,Central,USA,2,3,0
+ORD-880232,2024-12-07,22:10:56,Completed,Website,CUST-023431,Karen Hernandez,33,Male,Consumer,Loyal,Michaelchester,North Carolina,27.73,South,USA,12,5,0
+ORD-836425,2021-05-21,09:47:20,Completed,Website,CUST-015672,Gilbert May,57,Male,Premium,Loyal,Kimberlymouth,Lower Saxony,75.28,North,Germany,5,4,0
+ORD-495979,2025-06-09,05:13:16,Completed,Mobile App,CUST-024626,Barbara White,25,Non-Binary,Premium,Loyal,New Natashaborough,Quebec,18.85,East,Canada,6,0,0
+ORD-776047,2025-01-15,16:38:24,Completed,Website,CUST-013419,Matthew King,22,Male,Consumer,Loyal,East Peter,Pennsylvania,50.55,East,USA,1,2,0
+ORD-115204,2021-08-22,02:17:21,Completed,Marketplace,CUST-022673,Ryan Silva,28,Female,Consumer,Loyal,Matthewfort,England,51.84,North,UK,8,6,0
+ORD-802564,2021-12-01,15:19:39,Cancelled,Website,CUST-008400,James Smith,40,Female,Premium,Loyal,Scottland,British Columbia,42.56,West,Canada,12,2,1
+ORD-835378,2025-06-11,15:08:50,Completed,Website,CUST-008972,Tricia Shaw,27,Male,Consumer,Loyal,New Edward,Michigan,71.23,Central,USA,6,2,0
+ORD-416240,2023-12-04,19:57:32,Completed,Marketplace,CUST-023279,Jessica Martin,66,Female,Consumer,Loyal,Ryanborough,North Carolina,11.44,South,USA,12,0,0
+ORD-944039,2023-10-19,05:53:58,Pending,Website,CUST-001220,Justin Sanders,49,Female,Consumer,Loyal,West Karen,England,60.02,North,UK,10,3,0
+ORD-869702,2021-11-23,08:38:41,Completed,Website,CUST-023716,Edward Allen,74,Male,Consumer,Loyal,North Jeremyview,Uttar Pradesh,58.12,North,India,11,1,0
+ORD-307369,2023-06-04,18:52:27,Completed,Website,CUST-000276,Gregory King,25,Male,Consumer,Loyal,New Lorraineview,New York,10.11,East,USA,6,6,0
+ORD-369277,2025-10-06,12:51:28,Completed,Marketplace,CUST-010710,Jason Maldonado,45,Male,Premium,Loyal,Port Stephentown,Georgia,58.6,South,USA,10,0,0
+ORD-316473,2022-08-15,19:25:52,Completed,Mobile App,CUST-004788,Barry Moore,60,Female,Consumer,Loyal,East Manuel,Wales,27.59,West,UK,8,0,0
+ORD-464342,2022-01-22,23:44:25,Completed,Mobile App,CUST-008813,Katrina Gonzalez,54,Female,Premium,Loyal,Erikafort,Karnataka,52.64,South,India,1,5,0
+ORD-627749,2021-02-14,10:05:58,Completed,Website,CUST-002054,Jonathan Perez,18,Female,Consumer,Loyal,Rhondaview,Wales,27.21,West,UK,2,6,0
+ORD-963309,2024-11-15,04:26:09,Completed,Marketplace,CUST-010923,Sarah Lee,56,Male,Consumer,Loyal,Williammouth,Pennsylvania,34.63,East,USA,11,4,0
+ORD-671797,2024-11-18,01:15:10,Completed,Mobile App,CUST-003535,Anthony Hernandez,48,Female,Business,Loyal,East Thomas,England,39.22,North,UK,11,0,0
+ORD-200858,2023-06-29,07:12:44,Cancelled,Social Media,CUST-007674,Rachel White,25,Male,Consumer,Loyal,Serranoport,Lower Saxony,79.67,North,Germany,6,3,1
+ORD-591152,2021-12-01,09:16:44,Completed,Mobile App,CUST-019626,Kenneth Hill,52,Male,Premium,Loyal,North Robert,Baden-Württemberg,47.69,South,Germany,12,2,0
+ORD-242553,2023-01-20,10:42:15,Returned,Marketplace,CUST-004317,Stacey Malone,35,Female,Consumer,Loyal,Davidside,Northern Ireland,52.83,West,UK,1,4,1
+ORD-967080,2023-01-24,22:11:03,Completed,Website,CUST-009784,Jeffery George,66,Male,Consumer,Returning,New Jose,Florida,31.95,South,USA,1,1,0
+ORD-944802,2024-01-10,04:05:39,Completed,Website,CUST-002524,Michael Blanchard,51,Female,VIP,Loyal,Tylerview,Florida,27.82,South,USA,1,2,0
+ORD-160873,2023-12-25,16:28:16,Completed,Mobile App,CUST-007185,Christopher Martinez,73,Female,Premium,Loyal,South Jacobhaven,Scotland,13.15,North,UK,12,0,0
+ORD-503881,2024-12-10,16:49:46,Cancelled,Marketplace,CUST-012081,Samantha Jackson,73,Male,Consumer,Loyal,New Daisy,California,35.02,West,USA,12,1,1
+ORD-550585,2023-08-06,23:30:46,Completed,Mobile App,CUST-008053,Cassandra Walters,44,Non-Binary,Consumer,Loyal,Port Tiffanyside,Texas,73.33,South,USA,8,6,0
+ORD-122955,2024-08-18,23:14:35,Completed,Marketplace,CUST-012722,Lauren Moore,21,Female,Premium,Loyal,Ashleyview,Wales,20.79,West,UK,8,6,0
+ORD-150791,2025-03-31,15:47:29,Completed,Social Media,CUST-012881,Tonya Bowen,45,Male,Consumer,Loyal,Amyberg,California,58.68,West,USA,3,0,0
+ORD-756016,2023-10-04,12:49:34,Completed,Website,CUST-021708,Christina Benjamin,70,Female,Premium,Loyal,New Manuelton,Pennsylvania,16.64,East,USA,10,2,0
+ORD-464224,2023-03-20,13:22:18,Completed,Mobile App,CUST-023925,Ernest Cole,66,Non-Binary,Consumer,Loyal,East Amberside,Baden-Württemberg,8.48,South,Germany,3,0,0
+ORD-768239,2022-11-03,11:16:04,Completed,Website,CUST-007584,Christopher Williams,30,Male,VIP,Loyal,Bradleyport,Scotland,28.03,North,UK,11,3,0
+ORD-985035,2022-12-05,05:09:17,Completed,Website,CUST-005870,Dana Johnson,68,Male,Business,Loyal,Rodriguezmouth,Texas,35.61,South,USA,12,0,0
+ORD-459391,2024-04-25,16:47:53,Completed,Mobile App,CUST-015299,Todd Rios,47,Female,Consumer,Loyal,New Andreamouth,Georgia,26.03,South,USA,4,3,0
+ORD-154686,2022-12-09,00:51:21,Cancelled,Marketplace,CUST-011464,Matthew Jones,47,Female,Consumer,Loyal,North Robin,North Carolina,50.9,South,USA,12,4,1
+ORD-318782,2023-08-30,13:13:40,Pending,Social Media,CUST-012227,Christopher Esparza,49,Male,Premium,Loyal,Kylemouth,North Carolina,73.89,South,USA,8,2,0
+ORD-832702,2024-06-29,09:50:57,Completed,Mobile App,CUST-018082,Marcus Stewart,35,Female,Consumer,Loyal,Clairechester,Michigan,44.2,Central,USA,6,5,0
+ORD-398261,2021-01-22,14:53:39,Completed,Mobile App,CUST-004606,Kayla Greer,45,Female,Consumer,Loyal,Lake Peterview,England,61.5,North,UK,1,4,0
+ORD-937125,2025-08-09,14:58:33,Completed,Website,CUST-018078,Albert Webb,46,Female,Premium,Loyal,South Anitastad,North Carolina,50.3,South,USA,8,5,0
+ORD-279186,2025-04-10,17:33:56,Completed,Website,CUST-018564,Michael Reese,44,Male,Business,Loyal,Nicoleburgh,North Carolina,18.79,South,USA,4,3,0
+ORD-427955,2023-10-18,07:31:23,Completed,Mobile App,CUST-005077,William Hughes,20,Female,Consumer,Loyal,Pollardview,Manitoba,36.02,Central,Canada,10,2,0
+ORD-346962,2022-08-15,01:03:16,Completed,Website,CUST-021230,Melissa Duncan,39,Non-Binary,Business,Loyal,Barbarafort,Wales,25.69,West,UK,8,0,0
+ORD-277607,2025-04-30,15:30:14,Completed,Marketplace,CUST-010236,Alexander Dorsey,71,Male,Consumer,Loyal,Melissaburgh,Illinois,22.58,Central,USA,4,2,0
+ORD-624579,2022-10-25,22:13:07,Completed,Mobile App,CUST-003497,James Brock,26,Male,Consumer,Loyal,Port Amyshire,Pennsylvania,30.23,East,USA,10,1,0
+ORD-109368,2022-06-22,13:22:22,Completed,Website,CUST-007443,Pamela Wright,57,Female,VIP,Loyal,Mitchellberg,North Rhine,61.85,West,Germany,6,2,0
+ORD-351293,2022-09-17,06:19:40,Completed,Marketplace,CUST-009196,Robert Berry,73,Male,Consumer,Loyal,South Veronicafurt,North Rhine,73.91,West,Germany,9,5,0
+ORD-243764,2025-09-15,00:57:55,Returned,Social Media,CUST-003707,Nathan Casey,36,Male,Business,Loyal,East Michaeltown,Hesse,71.83,Central,Germany,9,0,1
+ORD-100564,2024-09-12,22:40:05,Completed,Website,CUST-006060,Jimmy Reid,31,Female,Consumer,Returning,Ericville,Northern Ireland,52.38,West,UK,9,3,0
+ORD-483237,2024-10-15,16:11:39,Completed,Marketplace,CUST-022214,Laurie Scott,64,Male,Consumer,Loyal,Lake Dennis,Dubai,42.26,South,UAE,10,1,0
+ORD-924533,2021-12-16,17:14:50,Returned,Social Media,CUST-015677,Justin Morales,58,Male,Premium,Loyal,Davidmouth,Baden-Württemberg,64.98,South,Germany,12,3,1
+ORD-938610,2021-07-17,11:57:47,Completed,Mobile App,CUST-001740,Michelle Warren,24,Male,VIP,Loyal,Amberhaven,New York,18.07,East,USA,7,5,0
+ORD-583163,2025-09-18,09:26:02,Completed,Website,CUST-020413,Richard Green,60,Female,Consumer,Loyal,Smithfort,Texas,31.75,South,USA,9,3,0
+ORD-651499,2023-12-12,00:59:24,Completed,Social Media,CUST-016979,Nicholas Parker,43,Male,Consumer,Loyal,West Christopher,Florida,73.39,South,USA,12,1,0
+ORD-344520,2023-04-08,17:17:35,Completed,Mobile App,CUST-014289,Ian Perez,63,Male,Consumer,Loyal,Carterland,Georgia,20.16,South,USA,4,5,0
+ORD-376688,2025-06-01,17:48:08,Completed,Mobile App,CUST-000506,Mathew Foster,73,Male,Premium,Returning,Port Gregorymouth,Illinois,10.3,Central,USA,6,6,0
+ORD-339249,2023-04-18,04:52:01,Completed,Marketplace,CUST-014802,Christopher Lewis,64,Male,Consumer,Loyal,Emilyberg,Illinois,78.7,Central,USA,4,1,0
+ORD-199904,2023-08-31,08:34:27,Returned,Website,CUST-013464,Adam Park,63,Non-Binary,Consumer,Loyal,New Yvette,Hesse,69.79,Central,Germany,8,3,1
+ORD-531467,2023-04-28,22:15:06,Completed,Mobile App,CUST-000862,Pamela Alvarez,54,Male,Consumer,Loyal,Millerhaven,Georgia,25.09,South,USA,4,4,0
+ORD-530790,2025-05-12,08:46:04,Completed,Mobile App,CUST-003473,Brian Hurst,44,Female,Consumer,Loyal,Andrewchester,Ajman,11.84,North,UAE,5,0,0
+ORD-396285,2024-10-21,21:01:15,Completed,Website,CUST-021567,Bianca Smith,66,Male,Consumer,Loyal,North Alexander,North Rhine,42.82,West,Germany,10,0,0
+ORD-369210,2021-08-16,08:43:39,Completed,Mobile App,CUST-003118,Adam Porter,18,Male,Premium,Loyal,Lake Kyle,New York,35.11,East,USA,8,0,0
+ORD-229249,2021-04-11,04:28:10,Completed,Website,CUST-004214,Elizabeth Alvarez,54,Male,Consumer,Loyal,Wallacestad,Texas,40.05,South,USA,4,6,0
+ORD-389443,2021-07-19,14:34:36,Completed,Mobile App,CUST-018085,Peggy Hodge,47,Male,Premium,Loyal,New Megan,Dubai,41.71,South,UAE,7,0,0
+ORD-837826,2021-01-01,12:50:06,Completed,Website,CUST-003661,Rhonda Higgins,24,Female,Premium,Loyal,Davischester,North Carolina,55.32,South,USA,1,4,0
+ORD-204965,2021-12-03,19:13:44,Completed,Social Media,CUST-024205,Christopher Clarke,65,Male,Consumer,Loyal,Jamesmouth,Georgia,41.13,South,USA,12,4,0
+ORD-825003,2022-02-28,05:49:22,Completed,Mobile App,CUST-013544,Keith Mann,23,Male,Consumer,Loyal,Jacobtown,North Carolina,72.89,South,USA,2,0,0
+ORD-187171,2022-02-04,00:24:55,Returned,Mobile App,CUST-019780,Rebecca Stewart,73,Female,Premium,Loyal,Nicholasport,New York,66.62,East,USA,2,4,1
+ORD-525712,2024-10-30,12:50:08,Completed,Website,CUST-003857,Amy Beck,20,Male,Consumer,Loyal,West Elizabethfurt,Northern Ireland,43.31,West,UK,10,2,0
+ORD-961672,2021-12-17,21:53:22,Completed,Website,CUST-019101,Mario Hart,42,Male,Consumer,Loyal,Gabriellaport,Pennsylvania,20.9,East,USA,12,4,0
+ORD-639153,2023-07-10,12:12:38,Completed,Website,CUST-016902,Jennifer Robertson,52,Male,VIP,Loyal,Victoriaport,Pennsylvania,39.04,East,USA,7,0,0
+ORD-922796,2023-11-04,21:47:48,Completed,Website,CUST-006889,Andrew Lewis,45,Non-Binary,Consumer,Loyal,Friedmanburgh,Texas,56.17,South,USA,11,5,0
+ORD-940376,2022-11-05,12:56:39,Completed,Website,CUST-017621,Blake Jones,52,Male,Premium,Loyal,Hendersonton,Scotland,29.42,North,UK,11,5,0
+ORD-217261,2024-10-09,18:53:50,Completed,Website,CUST-009213,Nathaniel Boyd,40,Male,VIP,Returning,Ericstad,Illinois,8.11,Central,USA,10,2,0
+ORD-300182,2024-07-10,09:54:07,Completed,Website,CUST-016282,Crystal Clayton,68,Male,Consumer,Loyal,Port Katrina,Texas,14.85,South,USA,7,2,0
+ORD-553206,2021-05-20,02:55:29,Cancelled,Mobile App,CUST-021173,David Ramirez,67,Female,Consumer,Loyal,East Bryanborough,Ontario,13.86,East,Canada,5,3,1
+ORD-930979,2025-03-18,21:22:16,Completed,Social Media,CUST-008460,Jessica Ashley,72,Male,Consumer,Loyal,Roseton,Illinois,64.02,Central,USA,3,1,0
+ORD-614533,2021-08-07,01:33:10,Completed,Mobile App,CUST-005117,Sean Cook,50,Non-Binary,Consumer,Loyal,South Bethton,North Rhine,77.22,West,Germany,8,5,0
+ORD-797263,2021-12-22,03:21:55,Completed,Mobile App,CUST-009050,Joshua Johnson,44,Non-Binary,Consumer,Returning,Ericview,Michigan,67.58,Central,USA,12,2,0
+ORD-680920,2022-12-17,00:36:49,Completed,Mobile App,CUST-006714,Arthur Johnson,74,Male,Premium,Loyal,Gregorymouth,Florida,36.3,South,USA,12,5,0
+ORD-867988,2023-03-05,15:58:58,Completed,Mobile App,CUST-001710,Michael Collins,48,Male,Consumer,Loyal,South Sonyaport,New York,67.87,East,USA,3,6,0
+ORD-216554,2025-07-18,20:35:58,Completed,Mobile App,CUST-013017,Gabriella Thomas,58,Male,VIP,Loyal,Mirandatown,Illinois,7.23,Central,USA,7,4,0
+ORD-259322,2022-08-17,08:34:11,Completed,Mobile App,CUST-017172,Larry Martin,66,Female,Premium,Loyal,Romerostad,Texas,18.42,South,USA,8,2,0
+ORD-323903,2025-02-26,13:07:46,Completed,Social Media,CUST-005532,Marissa Stevenson,26,Male,Premium,Loyal,Teresahaven,Texas,63.5,South,USA,2,2,0
+ORD-930456,2022-02-13,10:43:54,Completed,Mobile App,CUST-009445,Kevin Briggs,73,Female,Consumer,Loyal,Lewisside,Lower Saxony,28.87,North,Germany,2,6,0
+ORD-515719,2022-05-16,14:52:18,Completed,Marketplace,CUST-015166,Charles Lewis,43,Non-Binary,Consumer,Loyal,Williamsborough,California,38.99,West,USA,5,0,0
+ORD-416887,2022-03-21,04:44:50,Returned,Mobile App,CUST-013612,Alice Carr,38,Female,Premium,Loyal,Lake Robin,Texas,68.3,South,USA,3,0,1
+ORD-408617,2023-01-18,22:22:44,Completed,Marketplace,CUST-007000,Erin Ramirez,67,Male,Consumer,Loyal,Johnsonland,Florida,17.4,South,USA,1,2,0
+ORD-189216,2024-09-06,00:18:09,Completed,Mobile App,CUST-021689,Ashley Haney,44,Male,Premium,Returning,Port Joshua,North Carolina,68.8,South,USA,9,4,0
+ORD-784665,2024-07-23,19:02:47,Completed,Mobile App,CUST-023567,Melissa Tyler,70,Male,Business,Returning,Popemouth,North Carolina,13.39,South,USA,7,1,0
+ORD-525445,2022-07-25,20:10:29,Completed,Website,CUST-006897,Nicholas Wilson,47,Male,Consumer,Loyal,North Natalie,England,71.31,North,UK,7,0,0
+ORD-544081,2025-12-06,18:49:18,Completed,Mobile App,CUST-006418,Cynthia Jackson,61,Female,Consumer,Loyal,South Shelbyville,Ontario,37.12,East,Canada,12,5,0
+ORD-169603,2025-07-15,18:44:49,Completed,Mobile App,CUST-011517,Amanda Phillips,44,Female,Consumer,Loyal,Summershaven,Western Australia,49.94,West,Australia,7,1,0
+ORD-495229,2025-12-18,10:05:14,Completed,Mobile App,CUST-018832,Rebecca Aguilar,58,Male,Consumer,Loyal,Ryanfurt,New York,25.55,East,USA,12,3,0
+ORD-800321,2023-04-11,07:46:44,Completed,Website,CUST-022632,Alexis May,30,Female,Premium,Loyal,Donaldport,Pennsylvania,18.91,East,USA,4,1,0
+ORD-533334,2025-07-12,08:56:01,Completed,Website,CUST-011994,Nicole Willis,30,Male,Premium,Loyal,Lisaburgh,South Australia,10.82,South,Australia,7,5,0
+ORD-625044,2025-03-24,20:01:21,Completed,Mobile App,CUST-003428,Nathan Mcdonald,35,Non-Binary,Business,Loyal,Jesseville,New York,46.2,East,USA,3,0,0
+ORD-580391,2024-03-22,23:05:57,Completed,Mobile App,CUST-010510,Bailey Woods,29,Non-Binary,Consumer,Loyal,Micheleburgh,Michigan,69.32,Central,USA,3,4,0
+ORD-245170,2022-05-13,23:33:07,Completed,Website,CUST-007079,Tamara Pratt,28,Male,Consumer,Loyal,Tammymouth,Baden-Württemberg,53.5,South,Germany,5,4,0
+ORD-139126,2021-12-23,05:18:47,Completed,Mobile App,CUST-004432,Ronald Gomez,39,Male,Consumer,Loyal,West Elizabethstad,Pennsylvania,5.31,East,USA,12,3,0
+ORD-720440,2023-06-05,09:30:12,Completed,Website,CUST-001681,Brian Brown,64,Male,Premium,Loyal,Joshuastad,Georgia,47.68,South,USA,6,0,0
+ORD-694132,2024-09-17,18:56:55,Completed,Website,CUST-001376,Alex Turner,49,Male,Consumer,Loyal,Williamsstad,Pennsylvania,47.99,East,USA,9,1,0
+ORD-266958,2023-12-25,16:22:35,Completed,Mobile App,CUST-022498,Madeline Clark,32,Male,Consumer,Loyal,New Brianashire,North Carolina,75.32,South,USA,12,0,0
+ORD-994118,2025-11-20,13:37:01,Completed,Mobile App,CUST-001544,Jill Pitts,44,Female,Premium,Loyal,North Robert,Ohio,30.09,Central,USA,11,3,0
+ORD-678485,2022-01-08,07:03:14,Completed,Marketplace,CUST-005579,Alexis Brown,55,Female,Consumer,Loyal,Edwardshaven,Michigan,47.86,Central,USA,1,5,0
+ORD-188975,2023-04-27,07:31:04,Completed,Mobile App,CUST-005269,Michael Dominguez,30,Female,Consumer,Loyal,New Lisaberg,England,30.67,North,UK,4,3,0
+ORD-225413,2022-08-20,07:05:05,Completed,Mobile App,CUST-005878,Linda Combs,41,Female,Consumer,Loyal,New Ricky,California,76.0,West,USA,8,5,0
+ORD-258858,2025-11-15,06:01:58,Completed,Mobile App,CUST-023865,Sandra Wallace,33,Male,Consumer,Loyal,East Alexandra,Pennsylvania,11.78,East,USA,11,5,0
+ORD-253506,2021-12-18,01:47:22,Completed,Website,CUST-012723,Brian Durham,59,Female,Consumer,Loyal,Lake Zacharyhaven,Florida,53.66,South,USA,12,5,0
+ORD-245036,2022-08-11,22:24:58,Completed,Mobile App,CUST-004149,James Nelson,59,Female,Consumer,Loyal,Lake Adamstad,California,8.99,West,USA,8,3,0
+ORD-455201,2023-03-25,17:34:20,Completed,Mobile App,CUST-000894,Omar Bell,35,Female,Consumer,Loyal,New Mary,Baden-Württemberg,22.35,South,Germany,3,5,0
+ORD-508303,2021-01-09,21:50:55,Cancelled,Marketplace,CUST-013236,Christopher Compton,71,Male,Consumer,Returning,Michaelmouth,Michigan,62.38,Central,USA,1,5,1
+ORD-425168,2024-10-26,23:15:34,Completed,Mobile App,CUST-001917,Jesus Wiggins,65,Male,Business,Loyal,Cynthiafort,Florida,27.46,South,USA,10,5,0
+ORD-226364,2023-07-23,03:43:33,Completed,Mobile App,CUST-022824,Andrew Chavez,67,Male,VIP,Loyal,Silvaville,Abu Dhabi,41.34,South,UAE,7,6,0
+ORD-586099,2025-11-05,19:46:35,Completed,Website,CUST-005860,William Carney,70,Female,VIP,Loyal,Lake Stacey,Northern Ireland,8.48,West,UK,11,2,0
+ORD-584600,2024-03-24,20:51:02,Completed,Website,CUST-011589,Tiffany Potts,40,Female,Consumer,Loyal,New Jamesville,Abu Dhabi,26.7,South,UAE,3,6,0
+ORD-795042,2025-11-24,06:50:04,Returned,Mobile App,CUST-008864,David Harrison,44,Female,Consumer,Loyal,Holderbury,Michigan,46.2,Central,USA,11,0,1
+ORD-500472,2024-08-26,20:57:29,Completed,Mobile App,CUST-016229,Eric Watts,38,Male,VIP,Loyal,Port Kathleen,California,19.77,West,USA,8,0,0
+ORD-800882,2024-12-07,00:48:51,Completed,Marketplace,CUST-022441,Heather Jones,74,Male,Consumer,Loyal,Amyview,Pennsylvania,30.31,East,USA,12,5,0
+ORD-832185,2022-04-13,16:54:46,Returned,Website,CUST-018395,Shane Pittman,26,Female,Premium,Loyal,Port Joannamouth,Wales,50.16,West,UK,4,2,1
+ORD-335612,2024-07-01,10:04:32,Pending,Social Media,CUST-016603,Rachel Hurley,32,Non-Binary,Consumer,Loyal,North Elizabethshire,Texas,68.78,South,USA,7,0,0
+ORD-162002,2024-04-13,17:35:17,Returned,Marketplace,CUST-015947,Mary Hoffman,42,Female,Business,Loyal,West Anamouth,Northern Ireland,45.67,West,UK,4,5,1
+ORD-850355,2021-11-28,18:07:20,Completed,Marketplace,CUST-013026,Steven Caldwell,45,Male,Business,Loyal,Ericaberg,Scotland,24.52,North,UK,11,6,0
+ORD-636811,2024-07-25,23:59:10,Completed,Website,CUST-021879,Adam Wall,48,Female,Consumer,Loyal,Davismouth,Ohio,52.03,Central,USA,7,3,0
+ORD-699713,2023-12-30,10:26:09,Returned,Website,CUST-016907,Theresa Soto,24,Female,Consumer,Loyal,East Johnside,Hesse,69.86,Central,Germany,12,5,1
+ORD-129501,2022-12-27,21:40:19,Completed,Website,CUST-002089,Ronald Carroll,35,Female,Consumer,Loyal,North Vickie,Baden-Württemberg,53.08,South,Germany,12,1,0
+ORD-675796,2023-03-21,16:43:46,Completed,Social Media,CUST-017355,Patricia Beck,42,Male,Business,Loyal,Danielfurt,Scotland,17.58,North,UK,3,1,0
+ORD-869011,2022-06-04,11:27:17,Completed,Website,CUST-010992,Jennifer Kennedy,61,Male,Consumer,Loyal,Smithview,Florida,29.31,South,USA,6,5,0
+ORD-717550,2025-12-13,02:41:38,Completed,Website,CUST-017180,Kristine Moran,66,Female,Premium,Loyal,Jimenezfurt,North Carolina,12.71,South,USA,12,5,0
+ORD-728979,2024-03-31,06:15:05,Cancelled,Marketplace,CUST-008649,Lauren Smith,58,Female,Consumer,Loyal,Angelastad,North Carolina,76.91,South,USA,3,6,1
+ORD-752590,2025-08-11,19:21:13,Completed,Mobile App,CUST-013428,Glenn Morgan,18,Female,Consumer,Loyal,Nicholasshire,Georgia,77.2,South,USA,8,0,0
+ORD-339558,2022-11-04,20:40:58,Completed,Mobile App,CUST-005549,Cindy Stone,44,Female,Premium,Loyal,New Angela,North Carolina,71.92,South,USA,11,4,0
+ORD-867586,2023-10-28,12:48:40,Completed,Website,CUST-012008,Rebecca Deleon,61,Male,VIP,Loyal,Tiffanyland,North Carolina,59.5,South,USA,10,5,0
+ORD-576186,2024-11-30,17:28:41,Completed,Website,CUST-008115,William James,51,Female,Consumer,Loyal,South Yvonneburgh,New South Wales,67.46,East,Australia,11,5,0
+ORD-990828,2022-01-21,10:15:17,Completed,Marketplace,CUST-004335,Samantha Stone,27,Female,Consumer,Loyal,Port Lauren,Ohio,77.44,Central,USA,1,4,0
+ORD-698977,2021-05-10,16:53:16,Returned,Website,CUST-015519,Matthew Diaz,34,Male,Premium,Loyal,West Christopher,Illinois,49.56,Central,USA,5,0,1
+ORD-110452,2024-04-23,03:20:24,Completed,Mobile App,CUST-002388,Timothy Nelson,34,Female,Consumer,Loyal,East Megan,Ohio,37.44,Central,USA,4,1,0
+ORD-449370,2023-03-02,10:26:28,Completed,Mobile App,CUST-021693,David Cervantes,27,Male,Premium,Loyal,Floresland,Pennsylvania,25.26,East,USA,3,3,0
+ORD-264808,2025-01-07,18:15:27,Cancelled,Marketplace,CUST-024825,Adam Lee,35,Male,Consumer,Loyal,Butlerberg,New York,9.5,East,USA,1,1,1
+ORD-550534,2024-10-11,07:01:09,Completed,Website,CUST-015235,Lauren Navarro,25,Male,Consumer,Loyal,North Crystal,North Carolina,13.67,South,USA,10,4,0
+ORD-948813,2023-06-16,02:19:01,Completed,Mobile App,CUST-013581,Kristin Warren,51,Female,Business,Loyal,Kirbyview,Michigan,28.84,Central,USA,6,4,0
+ORD-716524,2024-02-05,19:51:15,Cancelled,Mobile App,CUST-010532,Hannah Tucker,27,Female,Consumer,Loyal,Jamesport,Pennsylvania,32.18,East,USA,2,0,1
+ORD-602724,2024-05-11,02:19:50,Completed,Website,CUST-007788,Larry Thomas,32,Male,Consumer,Loyal,Troyton,Florida,29.24,South,USA,5,5,0
+ORD-200197,2025-05-18,06:05:34,Completed,Social Media,CUST-008986,Marcus Pugh,57,Male,Consumer,Loyal,East Brittany,England,11.5,North,UK,5,6,0
+ORD-569761,2024-07-09,10:37:24,Completed,Website,CUST-009638,Mark Hughes,69,Female,Consumer,Loyal,East Mark,Ohio,77.71,Central,USA,7,1,0
+ORD-523850,2024-04-01,12:38:50,Completed,Website,CUST-012876,Jennifer Bennett,40,Non-Binary,Consumer,Loyal,West Lucas,Illinois,34.8,Central,USA,4,0,0
+ORD-200606,2025-02-15,10:52:34,Returned,Website,CUST-022063,Marcia Colon,54,Female,Consumer,Loyal,Port Sara,Texas,49.25,South,USA,2,5,1
+ORD-179241,2022-12-16,16:21:10,Completed,Marketplace,CUST-002522,Jason Cortez,32,Female,Consumer,Loyal,West Jacobbury,Quebec,58.0,East,Canada,12,4,0
+ORD-815036,2025-11-30,21:43:11,Completed,Mobile App,CUST-019752,Andrea Henry,29,Non-Binary,Consumer,Loyal,Gwendolynport,Wales,51.15,West,UK,11,6,0
+ORD-148868,2025-09-03,02:52:08,Completed,Social Media,CUST-019558,William Cox,26,Female,Consumer,Loyal,East Tricia,Michigan,67.99,Central,USA,9,2,0
+ORD-101594,2022-12-23,18:18:42,Cancelled,Website,CUST-019888,Samantha Jackson,26,Male,Consumer,Loyal,Briannaland,Wales,49.47,West,UK,12,4,1
+ORD-912504,2025-01-18,05:40:27,Cancelled,Mobile App,CUST-017901,Jay Shaffer,58,Male,VIP,Loyal,Ricardoton,Manitoba,22.99,Central,Canada,1,5,1
+ORD-532073,2024-10-12,20:08:39,Returned,Mobile App,CUST-014519,Tonya Santos,42,Male,Premium,Loyal,Lake Brianshire,California,5.52,West,USA,10,5,1
+ORD-396649,2022-08-20,22:55:17,Completed,Mobile App,CUST-016055,Dave Henderson,61,Male,Premium,Loyal,Lake Brettmouth,Georgia,27.32,South,USA,8,5,0
+ORD-439712,2024-01-28,01:21:48,Completed,Website,CUST-008466,Gloria Watkins,35,Female,Premium,Loyal,North Steven,Georgia,14.25,South,USA,1,6,0
+ORD-951789,2023-01-23,15:11:13,Completed,Website,CUST-016373,Christopher Hardy,44,Female,Premium,Loyal,East Nichole,Wales,9.55,West,UK,1,0,0
+ORD-669895,2022-08-28,12:47:20,Completed,Website,CUST-016836,Debra Taylor,65,Female,Premium,Loyal,Chasefort,Lower Saxony,39.47,North,Germany,8,6,0
+ORD-776016,2025-08-20,11:53:47,Completed,Website,CUST-020825,Joshua Sanders,63,Male,Consumer,Loyal,Lake Kylechester,Pennsylvania,10.06,East,USA,8,2,0
+ORD-842172,2024-07-26,23:12:43,Completed,Website,CUST-012749,Scott Floyd,29,Male,Premium,Loyal,North Mitchellmouth,California,78.0,West,USA,7,4,0
+ORD-444615,2022-12-23,08:10:53,Cancelled,Mobile App,CUST-021118,Donna Brown,23,Male,Business,Loyal,Sydneymouth,Northern Ireland,27.35,West,UK,12,4,1
+ORD-262655,2023-10-26,05:56:32,Completed,Mobile App,CUST-015773,Julie Charles,69,Male,Consumer,Loyal,Rebeccaland,Michigan,7.9,Central,USA,10,3,0
+ORD-694676,2021-12-02,05:46:14,Completed,Website,CUST-006109,Alyssa Cunningham,35,Female,Premium,Loyal,New Georgechester,Florida,28.42,South,USA,12,3,0
+ORD-174276,2021-12-22,15:06:42,Completed,Social Media,CUST-006610,Alexis Hansen,21,Female,Premium,Loyal,East Michaelton,Baden-Württemberg,25.58,South,Germany,12,2,0
+ORD-959431,2022-12-25,19:03:46,Completed,Mobile App,CUST-018361,Blake Black,53,Male,Premium,Loyal,East Jennyview,Baden-Württemberg,52.78,South,Germany,12,6,0
+ORD-598545,2023-02-04,06:22:15,Completed,Social Media,CUST-003653,Sherry Hill,19,Male,Premium,Loyal,Olsenside,New York,61.92,East,USA,2,5,0
+ORD-862995,2025-02-23,04:38:35,Completed,Mobile App,CUST-014732,Daniel Franklin,34,Male,VIP,Loyal,Jillianville,Florida,43.83,South,USA,2,6,0
+ORD-147211,2022-12-24,18:35:30,Pending,Social Media,CUST-023718,Kevin Davis,68,Female,VIP,Loyal,Kevinmouth,Georgia,16.26,South,USA,12,5,0
+ORD-316999,2022-03-02,21:17:23,Pending,Website,CUST-005171,James Wells,41,Male,Consumer,Loyal,Reneefort,New York,63.61,East,USA,3,2,0
+ORD-574697,2024-08-04,23:04:54,Completed,Marketplace,CUST-020013,Joseph Henson,37,Male,Consumer,Loyal,West Calvinbury,Scotland,68.05,North,UK,8,6,0
+ORD-407853,2025-07-24,12:13:17,Completed,Website,CUST-016737,Lisa Jensen,68,Male,Premium,Loyal,Gonzalezberg,Scotland,53.03,North,UK,7,3,0
+ORD-301544,2023-05-05,17:41:20,Returned,Mobile App,CUST-022251,Kimberly Lewis,65,Female,Business,Loyal,Shawnhaven,New York,8.58,East,USA,5,4,1
+ORD-853100,2023-12-28,08:47:49,Completed,Website,CUST-016878,Michael Byrd,59,Female,Consumer,Loyal,Paulshire,North Rhine,10.46,West,Germany,12,3,0
+ORD-410904,2025-01-01,22:17:15,Completed,Mobile App,CUST-002468,Raymond Hines,31,Non-Binary,Consumer,Loyal,South Evanhaven,New York,69.46,East,USA,1,2,0
+ORD-674307,2023-08-05,21:14:16,Completed,Website,CUST-017507,Alex Newton,34,Female,Consumer,Loyal,Port Christina,Florida,65.7,South,USA,8,5,0
+ORD-853519,2023-04-01,04:04:03,Completed,Website,CUST-007574,Richard Oconnor,48,Male,Consumer,Loyal,Lake Justin,Alberta,53.66,Central,Canada,4,5,0
+ORD-401239,2022-01-28,00:32:24,Completed,Website,CUST-009901,Natasha Shaffer,21,Male,Consumer,Loyal,Patrickfort,Wales,60.38,West,UK,1,4,0
+ORD-186777,2021-07-07,09:39:13,Completed,Mobile App,CUST-019736,Peter Armstrong,66,Male,Consumer,Loyal,West Rachelbury,Michigan,46.53,Central,USA,7,2,0
+ORD-889417,2023-01-17,18:50:26,Completed,Website,CUST-004387,Tracy Wilkinson,73,Male,Premium,Loyal,Louiston,Dubai,33.41,South,UAE,1,1,0
+ORD-876606,2023-12-18,07:57:52,Returned,Website,CUST-004840,Hannah Thompson,66,Female,Business,Loyal,Reillymouth,California,28.21,West,USA,12,0,1
+ORD-756308,2025-07-10,15:19:59,Completed,Website,CUST-011414,Kimberly Johns,42,Female,Consumer,Loyal,East Kendra,Ohio,78.56,Central,USA,7,3,0
+ORD-281912,2021-08-25,09:40:49,Completed,Marketplace,CUST-018956,Wesley Chapman,31,Male,Premium,Loyal,Mayerfort,Northern Ireland,9.37,West,UK,8,2,0
+ORD-191339,2023-01-19,02:23:24,Returned,Marketplace,CUST-008311,Michael Wilson,56,Female,Consumer,Loyal,South Peggyburgh,British Columbia,79.51,West,Canada,1,3,1
+ORD-715866,2024-04-04,05:42:54,Completed,Mobile App,CUST-023090,Rebecca Gomez,34,Male,Consumer,Loyal,Hoodhaven,Queensland,16.49,North,Australia,4,3,0
+ORD-583072,2021-12-06,14:29:29,Completed,Website,CUST-013831,Lee Allen,42,Male,Premium,Loyal,Lake Debbie,Queensland,35.52,North,Australia,12,0,0
+ORD-991200,2025-08-27,08:37:33,Completed,Mobile App,CUST-007365,Felicia Pratt,26,Female,Consumer,Loyal,Patriciaville,Florida,19.37,South,USA,8,2,0
+ORD-156148,2025-10-28,00:06:37,Completed,Mobile App,CUST-004881,Kiara Hicks,55,Female,Premium,Loyal,South Whitneyview,Michigan,56.89,Central,USA,10,1,0
+ORD-912644,2021-10-15,12:28:46,Completed,Marketplace,CUST-002153,Dana Ayala,25,Male,Consumer,Loyal,Lake Jeremyfort,Georgia,69.73,South,USA,10,4,0
+ORD-269969,2021-09-11,21:10:48,Completed,Marketplace,CUST-000126,Meghan Salinas,26,Female,VIP,Loyal,Savannahburgh,Lower Saxony,41.2,North,Germany,9,5,0
+ORD-510969,2024-09-27,13:26:17,Completed,Marketplace,CUST-008621,Ashley Mcdonald,36,Female,Premium,Loyal,North Lisa,South Australia,9.62,South,Australia,9,4,0
+ORD-670133,2022-09-01,01:58:02,Completed,Mobile App,CUST-013461,Sarah Davis,30,Female,VIP,Loyal,East Austinville,Quebec,61.76,East,Canada,9,3,0
+ORD-603768,2025-06-09,19:57:14,Completed,Website,CUST-012394,Michael Washington,32,Female,Consumer,Loyal,South Kristin,Illinois,12.6,Central,USA,6,0,0
+ORD-590022,2022-08-27,07:36:39,Returned,Marketplace,CUST-012423,Jared Velazquez,25,Female,VIP,Loyal,Guerraview,England,5.47,North,UK,8,5,1
+ORD-764912,2024-05-11,14:35:18,Cancelled,Website,CUST-013303,Angela Nunez,61,Male,Consumer,Loyal,East Angela,Texas,72.95,South,USA,5,5,1
+ORD-956796,2021-11-25,21:36:49,Pending,Website,CUST-012395,Nicholas Warren,23,Male,Business,Loyal,Patriciashire,Illinois,40.15,Central,USA,11,3,0
+ORD-686405,2024-02-07,06:52:40,Completed,Mobile App,CUST-010039,Aaron Morgan,59,Male,Premium,Loyal,Burnettton,Texas,64.6,South,USA,2,2,0
+ORD-754700,2021-04-13,17:47:27,Completed,Mobile App,CUST-021845,Mark Wilson,44,Female,Premium,Loyal,Millsmouth,South Australia,67.54,South,Australia,4,1,0
+ORD-406367,2023-12-19,23:15:17,Cancelled,Website,CUST-009725,Nancy Scott,51,Female,VIP,Loyal,Anthonyfurt,Hesse,49.83,Central,Germany,12,1,1
+ORD-846019,2023-03-02,17:16:45,Completed,Website,CUST-005090,Michelle Holland,36,Female,Consumer,Loyal,West Andrew,New York,61.65,East,USA,3,3,0
+ORD-893109,2023-01-13,16:15:47,Completed,Website,CUST-008900,Jennifer Palmer,52,Male,Consumer,Loyal,Smithhaven,England,77.01,North,UK,1,4,0
+ORD-793818,2021-11-02,22:13:10,Completed,Marketplace,CUST-006093,Kimberly Thomas,35,Female,Consumer,Loyal,East Janicestad,Illinois,34.13,Central,USA,11,1,0
+ORD-284365,2023-11-02,05:40:57,Completed,Mobile App,CUST-016817,Toni Marks,31,Female,Consumer,Loyal,Port Christopherside,North Carolina,75.25,South,USA,11,3,0
+ORD-676260,2023-09-25,14:08:13,Completed,Mobile App,CUST-022364,Jason Lee,22,Male,Business,Loyal,South James,Scotland,15.1,North,UK,9,0,0
+ORD-834381,2022-04-08,22:51:32,Completed,Website,CUST-003407,Tony Wagner,54,Male,Consumer,Loyal,Riddleton,Ohio,77.77,Central,USA,4,4,0
+ORD-701144,2023-06-24,01:24:31,Completed,Mobile App,CUST-019364,Michael Lewis,29,Female,Consumer,Loyal,Sandrabury,North Rhine,21.81,West,Germany,6,5,0
+ORD-708118,2023-10-23,05:21:33,Completed,Social Media,CUST-010713,Douglas Rodriguez,25,Female,Consumer,Loyal,New Samuel,Pennsylvania,18.09,East,USA,10,0,0
+ORD-937742,2021-05-28,19:48:22,Completed,Mobile App,CUST-009779,Michael Barnes,27,Non-Binary,Premium,Loyal,Arnoldborough,Ontario,57.05,East,Canada,5,4,0
+ORD-413817,2021-05-06,10:48:50,Completed,Mobile App,CUST-010415,Brenda Perez,60,Female,Consumer,Loyal,South Johnborough,Quebec,46.27,East,Canada,5,3,0
+ORD-220019,2024-11-29,22:54:46,Completed,Mobile App,CUST-007379,Connie James,74,Male,Premium,Loyal,Frankchester,Michigan,49.29,Central,USA,11,4,0
+ORD-826771,2023-06-25,10:30:19,Completed,Mobile App,CUST-002114,Phillip Morgan,34,Male,Consumer,Loyal,Lake Thomas,Texas,18.46,South,USA,6,6,0
+ORD-119979,2021-09-02,20:18:21,Completed,Marketplace,CUST-020586,Chris Norris,51,Female,Consumer,Loyal,Angelaland,North Carolina,51.39,South,USA,9,3,0
+ORD-142064,2024-08-25,17:59:22,Returned,Mobile App,CUST-020937,Oscar Barker,20,Male,Consumer,Loyal,West Kyle,Scotland,62.4,North,UK,8,6,1
+ORD-459211,2025-02-22,12:13:13,Completed,Social Media,CUST-005452,Peter Payne,53,Male,Premium,Loyal,Lake Emily,England,7.43,North,UK,2,5,0
+ORD-230274,2025-09-04,04:04:06,Completed,Mobile App,CUST-013441,Victoria Long,45,Female,Consumer,Loyal,Gregoryville,Maharashtra,23.55,West,India,9,3,0
+ORD-421478,2022-07-04,23:56:26,Pending,Website,CUST-001069,Luis Diaz,36,Female,Premium,Loyal,New Elizabeth,Lower Saxony,49.23,North,Germany,7,0,0
+ORD-694039,2024-04-11,04:32:05,Completed,Website,CUST-018666,Savannah Nelson,36,Male,Consumer,Loyal,South Morgan,North Carolina,37.8,South,USA,4,3,0
+ORD-859178,2024-01-25,11:12:00,Cancelled,Website,CUST-016785,Angela Jordan,23,Male,Premium,Loyal,Amandaland,New York,42.78,East,USA,1,3,1
+ORD-242378,2022-09-30,18:44:19,Completed,Website,CUST-022095,Sabrina Schneider,59,Female,Premium,Loyal,Rubioshire,Texas,60.71,South,USA,9,4,0
+ORD-865148,2021-03-09,04:36:44,Completed,Marketplace,CUST-016851,Timothy Jones,25,Male,VIP,Returning,Prestonchester,Ajman,22.31,North,UAE,3,1,0
+ORD-685844,2022-11-20,11:08:47,Completed,Mobile App,CUST-003499,Michael Flores,66,Female,Consumer,Loyal,Cohenchester,Florida,51.65,South,USA,11,6,0
+ORD-434594,2024-12-11,19:41:38,Completed,Website,CUST-013705,Stephanie Miller,45,Female,Consumer,Loyal,Patriciaborough,Pennsylvania,27.16,East,USA,12,2,0
+ORD-683460,2023-09-18,02:28:37,Completed,Mobile App,CUST-013575,Carolyn Hebert,66,Male,VIP,Loyal,South Justinchester,Florida,77.21,South,USA,9,0,0
+ORD-961227,2024-09-06,20:18:11,Completed,Mobile App,CUST-003293,Joseph Delgado,73,Male,Business,Loyal,New Matthewhaven,Michigan,15.87,Central,USA,9,4,0
+ORD-347708,2023-02-02,20:20:26,Returned,Marketplace,CUST-022347,Kevin Buchanan,44,Male,VIP,Loyal,North Amytown,Wales,73.78,West,UK,2,3,1
+ORD-201812,2024-02-29,15:57:21,Completed,Website,CUST-015863,John Phillips,56,Male,Premium,Loyal,Lake Julieburgh,North Carolina,64.33,South,USA,2,3,0
+ORD-390387,2021-06-10,08:15:53,Completed,Mobile App,CUST-016324,Matthew Casey,60,Male,Consumer,Loyal,South Kathrynshire,Victoria,19.4,South,Australia,6,3,0
+ORD-872942,2021-02-23,17:00:36,Completed,Marketplace,CUST-007843,Pamela Bailey,19,Female,Consumer,Loyal,Lake Cindy,Victoria,10.39,South,Australia,2,1,0
+ORD-593528,2023-12-07,13:34:17,Completed,Website,CUST-019491,Sarah Roberson,36,Female,Business,Loyal,Hendrixstad,Texas,62.92,South,USA,12,3,0
+ORD-541462,2022-12-24,13:49:38,Completed,Social Media,CUST-014781,Danielle Smith,20,Female,Consumer,Loyal,Amberville,Lower Saxony,37.93,North,Germany,12,5,0
